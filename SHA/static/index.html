@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Hospital Data Analytics & ML Workbench</title>
+  <meta name="description" content="Data Preview, Data Preprocessing, EDA Visualizations, and ML Algorithm Analysis (Logistic Regression vs Random Forest).">
+  <!-- Google Fonts & Chart.js -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+
+  <div class="app-container">
+    
+    <!-- Top Nav Header -->
+    <header class="top-nav">
+      <div class="brand">
+        <div class="brand-logo">🩺</div>
+        <div>
+          <h1>Smart Hospital Data Science & ML Workbench</h1>
+          <p>Exploratory Data Analysis, Data Wrangling, Interactive Visualizations & Model Evaluation</p>
+        </div>
+      </div>
+      <div class="status-badge">
+        <span class="pulse-dot"></span>
+        <span>1,500 Dataset Records</span>
+      </div>
+    </header>
+
+    <main class="main-content">
+
+      <!-- SECTION 1: DATA PREVIEW (RAW) -->
+      <section class="workbench-section">
+        <div class="section-header">
+          <div class="header-title">
+            <span class="step-num">1</span>
+            <h2>Data Preview</h2>
+          </div>
+          <span class="info-tag">150 Rows Scroll View</span>
+        </div>
+        <p class="section-desc">Raw patient appointment dataset preview (includes original features & raw missing NaNs).</p>
+        
+        <div class="table-scroll-container">
+          <table class="data-table">
+            <thead id="raw-table-head"></thead>
+            <tbody id="raw-table-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- SECTION 2: AFTER CLEANING DATA PREVIEW -->
+      <section class="workbench-section">
+        <div class="section-header">
+          <div class="header-title">
+            <span class="step-num step-green">2</span>
+            <h2>After Cleaning Data Preview</h2>
+          </div>
+          <span class="info-tag tag-success">150 Rows Cleaned & Preprocessed</span>
+        </div>
+        <p class="section-desc">Dataset after median-imputation for missing Age & Lead_Days, binned <code>Age_Group</code>, and engineered <code>Comorbidity_Count</code>.</p>
+        
+        <div class="table-scroll-container">
+          <table class="data-table">
+            <thead id="clean-table-head"></thead>
+            <tbody id="clean-table-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- SECTION 3: EDA PROCESS -->
+      <section class="workbench-section">
+        <div class="section-header">
+          <div class="header-title">
+            <span class="step-num step-purple">3</span>
+            <h2>EDA Process</h2>
+          </div>
+          <span class="info-tag tag-purple">Exploratory Summary</span>
+        </div>
+        <p class="section-desc">Exploratory Data Analysis overview statistics across demographics, lead times, and attendance trends.</p>
+
+        <div class="eda-metrics-grid">
+          <div class="metric-card">
+            <span class="metric-icon">📋</span>
+            <div class="metric-data">
+              <span class="metric-label">Total Records</span>
+              <span id="eda-total-records" class="metric-val">1,500</span>
+            </div>
+          </div>
+          <div class="metric-card">
+            <span class="metric-icon green">✅</span>
+            <div class="metric-data">
+              <span class="metric-label">Attended Patients</span>
+              <span id="eda-attended-count" class="metric-val">--</span>
+            </div>
+          </div>
+          <div class="metric-card">
+            <span class="metric-icon red">⚠️</span>
+            <div class="metric-data">
+              <span class="metric-label">No-Show Rate</span>
+              <span id="eda-noshow-rate" class="metric-val">--%</span>
+            </div>
+          </div>
+          <div class="metric-card">
+            <span class="metric-icon blue">👤</span>
+            <div class="metric-data">
+              <span class="metric-label">Average Age</span>
+              <span id="eda-avg-age" class="metric-val">-- yrs</span>
+            </div>
+          </div>
+          <div class="metric-card">
+            <span class="metric-icon orange">⏳</span>
+            <div class="metric-data">
+              <span class="metric-label">Average Lead Time</span>
+              <span id="eda-avg-lead" class="metric-val">-- days</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- SECTION 4: VISUALIZING (DROPDOWN LIST OF ALL CHARTS) -->
+      <section class="workbench-section">
+        <div class="section-header dropdown-header">
+          <div class="header-title">
+            <span class="step-num step-blue">4</span>
+            <h2>Data Visualizations</h2>
+          </div>
+          <div class="chart-select-wrapper">
+            <label for="viz-dropdown"><strong>Select Chart Type:</strong></label>
+            <select id="viz-dropdown" class="styled-select" onchange="renderSelectedVisualization()">
+              <option value="pie">🥧 Pie Charts (Attendance & Gender Distribution)</option>
+              <option value="bar">📊 Bar Charts (No-Show Rate by Department & Age Group)</option>
+              <option value="scatter">📈 Scatterplot (Age vs Lead Days)</option>
+              <option value="box">📦 Boxplots (Lead Time & Age Distributions)</option>
+              <option value="heatmap">🔥 Heatmaps (Feature Correlation Matrix)</option>
+              <option value="remaining">📉 Line Charts & Countplots (Lead Time Trend & Comorbidities)</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="viz-display-area" id="viz-display-area">
+          <!-- Rendered dynamically -->
+        </div>
+      </section>
+
+      <!-- SECTION 5: ML ALGORITHMS (LOGISTIC REGRESSION VS RANDOM FOREST) -->
+      <section class="workbench-section">
+        <div class="section-header">
+          <div class="header-title">
+            <span class="step-num step-orange">5</span>
+            <h2>Machine Learning Algorithms</h2>
+          </div>
+          <p class="subtitle">Click an algorithm button below to apply it and view its execution results</p>
+        </div>
+
+        <!-- Algorithm Select Buttons -->
+        <div class="algo-toggle-bar">
+          <button id="btn-lr" class="algo-btn active" onclick="selectAlgorithm('Logistic_Regression')">
+            <span class="algo-icon">⚡</span>
+            <span>Logistic Regression</span>
+          </button>
+          <button id="btn-rf" class="algo-btn" onclick="selectAlgorithm('Random_Forest')">
+            <span class="algo-icon">🌲</span>
+            <span>Random Forest Classifier</span>
+          </button>
+        </div>
+
+        <!-- Algorithm Evaluation Results -->
+        <div id="algo-results-container" class="algo-results-box">
+          <!-- Dynamic Content for Selected Algorithm -->
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

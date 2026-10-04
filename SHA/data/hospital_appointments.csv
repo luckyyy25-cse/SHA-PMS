@@ -1,0 +1,1501 @@
+Patient_ID,Age,Gender,Department,Lead_Days,Hypertension,Diabetes,Alcoholism,Previous_No_Shows,SMS_Reminder,No_Show
+PAT-1000,52.0,Male,General Medicine,11.0,1,0,0,0,0,0
+PAT-1001,15.0,Female,Cardiology,12.0,0,0,0,0,0,0
+PAT-1002,72.0,Female,General Medicine,6.0,1,1,0,0,1,1
+PAT-1003,61.0,Female,General Medicine,10.0,1,0,0,0,1,0
+PAT-1004,21.0,Male,Pediatrics,16.0,0,0,0,0,1,0
+PAT-1005,83.0,Female,Pediatrics,5.0,0,0,1,0,1,1
+PAT-1006,87.0,Female,Orthopedics,16.0,0,0,0,0,0,0
+PAT-1007,75.0,Female,Neurology,8.0,0,0,0,0,0,0
+PAT-1008,75.0,Female,Orthopedics,1.0,0,0,0,0,1,1
+PAT-1009,88.0,Female,Cardiology,0.0,0,1,0,0,1,1
+PAT-1010,24.0,Female,Cardiology,4.0,0,0,0,0,1,1
+PAT-1011,3.0,Female,Dermatology,7.0,0,0,0,0,1,1
+PAT-1012,22.0,Male,General Medicine,18.0,0,0,0,0,0,1
+PAT-1013,53.0,Female,Dermatology,1.0,1,0,0,0,0,0
+PAT-1014,,Female,Neurology,16.0,0,0,0,0,1,1
+PAT-1015,88.0,Female,General Medicine,19.0,1,0,0,1,0,1
+PAT-1016,30.0,Male,Orthopedics,1.0,0,0,0,2,0,1
+PAT-1017,38.0,Male,Neurology,19.0,0,0,0,3,1,1
+PAT-1018,2.0,Female,Orthopedics,47.0,0,0,0,0,0,0
+PAT-1019,64.0,Male,Dermatology,12.0,1,0,0,4,1,1
+PAT-1020,60.0,Female,Dermatology,15.0,0,0,0,0,0,0
+PAT-1021,21.0,Male,Cardiology,51.0,0,0,0,0,1,0
+PAT-1022,33.0,Male,Cardiology,9.0,0,0,0,0,1,1
+PAT-1023,76.0,Female,Dermatology,3.0,0,1,0,2,1,1
+PAT-1024,58.0,Female,Orthopedics,18.0,0,0,0,0,1,1
+PAT-1025,22.0,Male,General Medicine,9.0,0,0,0,1,0,0
+PAT-1026,89.0,Male,General Medicine,8.0,0,0,0,0,1,1
+PAT-1027,49.0,Male,Orthopedics,2.0,0,1,0,0,1,0
+PAT-1028,59.0,Female,Dermatology,14.0,0,0,0,0,1,0
+PAT-1029,42.0,Male,Neurology,0.0,0,0,0,0,0,1
+PAT-1030,60.0,Female,Orthopedics,25.0,0,0,0,0,0,1
+PAT-1031,80.0,Female,General Medicine,3.0,0,0,0,0,0,1
+PAT-1032,15.0,Male,General Medicine,1.0,0,0,0,0,1,1
+PAT-1033,62.0,Female,Neurology,5.0,1,1,0,0,0,0
+PAT-1034,62.0,Female,General Medicine,0.0,0,0,0,0,1,0
+PAT-1035,47.0,Male,General Medicine,11.0,1,1,0,1,1,1
+PAT-1036,62.0,Female,General Medicine,23.0,1,0,0,0,1,0
+PAT-1037,51.0,Female,Orthopedics,18.0,0,0,0,0,1,1
+PAT-1038,55.0,Female,Dermatology,1.0,1,0,0,0,0,1
+PAT-1039,64.0,Female,General Medicine,1.0,1,0,0,0,1,0
+PAT-1040,3.0,Female,Cardiology,16.0,0,0,0,2,1,1
+PAT-1041,51.0,Female,Orthopedics,25.0,0,0,0,2,1,0
+PAT-1042,7.0,Female,Dermatology,6.0,0,0,0,0,1,0
+PAT-1043,21.0,Female,General Medicine,6.0,0,0,0,0,0,1
+PAT-1044,73.0,Female,Cardiology,3.0,0,0,0,2,0,1
+PAT-1045,39.0,Female,Cardiology,22.0,0,0,0,2,1,1
+PAT-1046,18.0,Male,Neurology,10.0,0,0,0,2,1,1
+PAT-1047,4.0,Male,Cardiology,3.0,0,0,0,1,0,0
+PAT-1048,89.0,Male,General Medicine,3.0,0,0,0,0,0,0
+PAT-1049,60.0,Male,Orthopedics,22.0,0,0,0,0,0,0
+PAT-1050,14.0,Male,Pediatrics,0.0,0,0,0,0,1,1
+PAT-1051,9.0,Female,General Medicine,3.0,0,0,0,0,1,1
+PAT-1052,53.0,Male,Neurology,8.0,1,0,0,0,1,1
+PAT-1053,2.0,Female,General Medicine,1.0,0,0,0,0,1,1
+PAT-1054,84.0,Male,Orthopedics,0.0,1,0,0,0,0,1
+PAT-1055,60.0,Female,Cardiology,16.0,0,0,0,0,0,1
+PAT-1056,71.0,Female,Pediatrics,22.0,0,0,0,0,1,1
+PAT-1057,44.0,Female,Cardiology,17.0,0,1,0,0,1,0
+PAT-1058,8.0,Female,Neurology,22.0,0,0,0,0,0,0
+PAT-1059,47.0,Male,Pediatrics,8.0,1,1,0,1,1,1
+PAT-1060,35.0,Female,Orthopedics,16.0,0,0,1,1,1,0
+PAT-1061,78.0,Male,Pediatrics,4.0,0,0,0,0,1,1
+PAT-1062,81.0,Female,Pediatrics,10.0,1,0,0,0,0,1
+PAT-1063,36.0,Male,General Medicine,44.0,0,0,0,0,0,0
+PAT-1064,50.0,Female,Cardiology,2.0,1,0,1,0,0,1
+PAT-1065,4.0,Female,Dermatology,4.0,0,0,0,0,1,0
+PAT-1066,2.0,Male,General Medicine,6.0,0,0,0,0,1,1
+PAT-1067,6.0,Male,Pediatrics,1.0,0,0,0,2,0,1
+PAT-1068,54.0,Male,Dermatology,0.0,0,0,1,0,0,0
+PAT-1069,4.0,Male,General Medicine,17.0,0,0,0,0,1,0
+PAT-1070,54.0,Female,Pediatrics,37.0,1,0,0,0,1,0
+PAT-1071,63.0,Male,Cardiology,5.0,1,0,0,0,1,0
+PAT-1072,18.0,Male,Orthopedics,0.0,0,0,0,0,0,0
+PAT-1073,44.0,Male,General Medicine,0.0,0,1,0,2,1,1
+PAT-1074,34.0,Female,General Medicine,22.0,0,0,0,0,0,1
+PAT-1075,74.0,Male,Orthopedics,6.0,1,0,0,0,0,0
+PAT-1076,62.0,Male,Neurology,3.0,0,0,0,0,1,0
+PAT-1077,14.0,Male,Pediatrics,6.0,0,0,0,0,0,0
+PAT-1078,48.0,Male,Orthopedics,3.0,1,0,0,0,0,1
+PAT-1079,15.0,Female,General Medicine,6.0,0,0,0,0,1,1
+PAT-1080,72.0,Male,Pediatrics,19.0,1,1,0,0,0,1
+PAT-1081,78.0,Male,General Medicine,8.0,0,0,0,0,1,0
+PAT-1082,87.0,Female,Dermatology,11.0,1,0,0,2,0,0
+PAT-1083,62.0,Female,Neurology,4.0,0,0,0,0,1,1
+PAT-1084,40.0,Male,Pediatrics,13.0,0,0,0,0,0,1
+PAT-1085,85.0,Female,Dermatology,10.0,1,1,0,0,1,1
+PAT-1086,80.0,Female,General Medicine,1.0,1,1,0,0,0,1
+PAT-1087,82.0,Male,Pediatrics,8.0,0,1,0,0,1,0
+PAT-1088,53.0,Female,Cardiology,2.0,1,0,0,0,1,1
+PAT-1089,24.0,Female,Dermatology,16.0,0,0,1,0,0,1
+PAT-1090,26.0,Female,General Medicine,5.0,0,0,0,0,0,1
+PAT-1091,89.0,Male,Pediatrics,52.0,1,0,1,0,1,1
+PAT-1092,60.0,Male,Neurology,0.0,0,0,0,0,1,0
+PAT-1093,41.0,Female,General Medicine,15.0,0,0,1,0,0,1
+PAT-1094,29.0,Female,Cardiology,11.0,0,0,0,1,0,1
+PAT-1095,15.0,Female,Pediatrics,14.0,0,0,0,4,0,0
+PAT-1096,45.0,Male,Cardiology,3.0,0,0,0,0,0,1
+PAT-1097,65.0,Female,General Medicine,6.0,1,1,0,0,1,0
+PAT-1098,,Female,General Medicine,15.0,0,0,0,1,1,1
+PAT-1099,71.0,Male,General Medicine,2.0,0,0,0,0,1,0
+PAT-1100,9.0,Male,Neurology,2.0,0,0,0,0,1,1
+PAT-1101,88.0,Female,Orthopedics,8.0,0,1,0,2,1,1
+PAT-1102,1.0,Male,General Medicine,7.0,0,0,0,0,1,1
+PAT-1103,8.0,Female,Cardiology,3.0,0,0,0,3,0,1
+PAT-1104,88.0,Male,Cardiology,3.0,0,0,0,1,0,1
+PAT-1105,63.0,Male,General Medicine,3.0,1,0,0,0,1,1
+PAT-1106,11.0,Male,Cardiology,14.0,0,0,0,1,0,1
+PAT-1107,81.0,Female,Cardiology,10.0,1,0,0,0,0,0
+PAT-1108,8.0,Female,Cardiology,17.0,0,0,0,0,0,1
+PAT-1109,35.0,Male,Pediatrics,37.0,0,0,0,2,0,1
+PAT-1110,35.0,Female,General Medicine,6.0,0,0,0,0,1,0
+PAT-1111,33.0,Female,Orthopedics,0.0,0,0,0,2,1,0
+PAT-1112,5.0,Female,Orthopedics,0.0,0,0,0,2,0,1
+PAT-1113,41.0,Male,Orthopedics,3.0,0,0,0,4,0,1
+PAT-1114,28.0,Female,Orthopedics,26.0,0,0,1,1,1,1
+PAT-1115,7.0,Female,Orthopedics,7.0,0,0,0,0,0,1
+PAT-1116,73.0,Male,Neurology,3.0,0,1,0,0,1,0
+PAT-1117,72.0,Male,Orthopedics,5.0,1,1,0,1,1,0
+PAT-1118,12.0,Female,Orthopedics,9.0,0,0,0,0,0,0
+PAT-1119,34.0,Female,Neurology,10.0,0,0,0,0,1,1
+PAT-1120,33.0,Male,Orthopedics,1.0,0,0,0,0,1,1
+PAT-1121,48.0,Female,General Medicine,37.0,1,0,0,2,0,0
+PAT-1122,23.0,Female,General Medicine,7.0,0,0,0,2,0,1
+PAT-1123,62.0,Female,General Medicine,1.0,0,1,0,0,1,1
+PAT-1124,88.0,Female,Neurology,22.0,0,0,0,0,0,1
+PAT-1125,37.0,Female,Pediatrics,0.0,0,0,0,0,1,0
+PAT-1126,44.0,Male,Dermatology,23.0,0,0,0,0,1,1
+PAT-1127,86.0,Male,Orthopedics,56.0,1,0,0,0,0,1
+PAT-1128,35.0,Male,Cardiology,12.0,0,0,0,0,0,0
+PAT-1129,65.0,Female,General Medicine,14.0,1,1,0,0,1,0
+PAT-1130,47.0,Female,Orthopedics,4.0,1,0,0,0,1,1
+PAT-1131,78.0,Male,Orthopedics,28.0,1,1,0,0,1,0
+PAT-1132,3.0,Female,Dermatology,7.0,0,0,0,0,1,1
+PAT-1133,1.0,Female,General Medicine,13.0,0,0,0,3,1,1
+PAT-1134,5.0,Female,Orthopedics,25.0,0,0,0,0,0,1
+PAT-1135,14.0,Female,Orthopedics,36.0,0,0,0,0,1,1
+PAT-1136,27.0,Female,Orthopedics,17.0,0,0,0,0,1,1
+PAT-1137,9.0,Male,Orthopedics,3.0,0,0,0,0,1,0
+PAT-1138,79.0,Male,Pediatrics,33.0,1,0,0,0,1,0
+PAT-1139,15.0,Male,General Medicine,9.0,0,0,0,0,1,0
+PAT-1140,42.0,Male,Pediatrics,26.0,0,1,0,0,1,1
+PAT-1141,77.0,Female,Orthopedics,11.0,1,0,0,0,0,1
+PAT-1142,51.0,Female,Neurology,3.0,1,0,0,1,1,1
+PAT-1143,63.0,Male,Neurology,4.0,1,0,1,0,0,1
+PAT-1144,52.0,Female,Cardiology,7.0,1,1,0,0,0,1
+PAT-1145,4.0,Male,General Medicine,,0,0,0,1,1,1
+PAT-1146,23.0,Female,Dermatology,3.0,0,0,0,0,0,1
+PAT-1147,15.0,Female,Orthopedics,8.0,0,0,0,1,1,1
+PAT-1148,43.0,Male,Dermatology,4.0,0,0,0,3,1,1
+PAT-1149,29.0,Female,General Medicine,16.0,0,0,0,0,0,1
+PAT-1150,36.0,Male,Orthopedics,6.0,0,0,0,2,1,0
+PAT-1151,13.0,Female,Neurology,0.0,0,0,0,1,1,1
+PAT-1152,32.0,Female,Dermatology,1.0,0,0,0,2,1,0
+PAT-1153,71.0,Male,Cardiology,0.0,0,0,0,0,1,0
+PAT-1154,59.0,Female,Pediatrics,6.0,1,1,0,0,1,0
+PAT-1155,86.0,Male,Orthopedics,1.0,0,0,0,2,0,1
+PAT-1156,28.0,Male,General Medicine,1.0,0,0,0,0,0,0
+PAT-1157,66.0,Female,Pediatrics,28.0,1,0,0,0,1,1
+PAT-1158,42.0,Male,Pediatrics,20.0,0,0,0,0,1,1
+PAT-1159,45.0,Female,Dermatology,6.0,0,0,0,0,0,1
+PAT-1160,62.0,Male,Cardiology,42.0,1,0,0,0,1,1
+PAT-1161,57.0,Female,General Medicine,0.0,0,0,0,1,1,1
+PAT-1162,6.0,Male,General Medicine,9.0,0,0,0,2,1,1
+PAT-1163,28.0,Female,Cardiology,9.0,0,0,0,0,1,1
+PAT-1164,28.0,Female,Cardiology,6.0,0,0,1,3,1,1
+PAT-1165,44.0,Male,Pediatrics,5.0,0,1,1,2,1,1
+PAT-1166,84.0,Female,Cardiology,6.0,0,0,0,0,1,0
+PAT-1167,30.0,Female,Dermatology,5.0,0,0,0,0,1,0
+PAT-1168,62.0,Female,Dermatology,13.0,1,0,0,1,1,1
+PAT-1169,75.0,Female,Orthopedics,1.0,1,1,0,0,1,0
+PAT-1170,89.0,Female,Dermatology,2.0,1,1,0,1,1,0
+PAT-1171,62.0,Female,Pediatrics,1.0,1,1,1,1,0,1
+PAT-1172,1.0,Female,Orthopedics,3.0,0,0,0,0,0,1
+PAT-1173,27.0,Female,General Medicine,7.0,0,0,0,0,1,0
+PAT-1174,62.0,Male,Cardiology,1.0,1,0,0,0,0,0
+PAT-1175,77.0,Male,Orthopedics,20.0,0,0,0,0,0,1
+PAT-1176,3.0,Female,Neurology,3.0,0,0,0,0,0,1
+PAT-1177,70.0,Male,Cardiology,1.0,0,0,0,1,0,0
+PAT-1178,72.0,Female,Neurology,11.0,0,0,0,0,0,1
+PAT-1179,27.0,Male,Orthopedics,0.0,0,0,0,4,0,1
+PAT-1180,9.0,Male,General Medicine,9.0,0,0,0,0,1,1
+PAT-1181,62.0,Female,Dermatology,11.0,1,0,0,1,1,1
+PAT-1182,37.0,Female,Orthopedics,2.0,0,0,0,0,1,0
+PAT-1183,51.0,Male,Cardiology,0.0,0,0,0,4,0,1
+PAT-1184,44.0,Female,Orthopedics,4.0,0,0,1,1,1,0
+PAT-1185,24.0,Female,General Medicine,1.0,0,0,0,0,1,1
+PAT-1186,79.0,Male,Orthopedics,1.0,1,0,0,3,1,1
+PAT-1187,59.0,Female,Cardiology,2.0,0,0,0,0,0,0
+PAT-1188,32.0,Male,Cardiology,3.0,0,0,0,0,1,1
+PAT-1189,88.0,Male,Dermatology,7.0,1,0,0,0,1,0
+PAT-1190,52.0,Female,Orthopedics,11.0,0,0,0,2,1,0
+PAT-1191,62.0,Male,General Medicine,8.0,1,1,0,0,1,0
+PAT-1192,58.0,Female,Cardiology,1.0,1,0,0,0,1,1
+PAT-1193,52.0,Female,Dermatology,1.0,0,0,0,1,1,0
+PAT-1194,12.0,Male,General Medicine,21.0,0,0,0,1,1,0
+PAT-1195,39.0,Female,General Medicine,8.0,0,0,0,0,0,1
+PAT-1196,2.0,Female,General Medicine,20.0,0,0,0,0,1,0
+PAT-1197,3.0,Male,General Medicine,4.0,0,0,0,0,1,1
+PAT-1198,56.0,Female,Neurology,9.0,0,0,0,1,1,1
+PAT-1199,81.0,Female,Pediatrics,7.0,0,0,0,1,0,0
+PAT-1200,59.0,Female,Cardiology,3.0,1,1,0,0,0,0
+PAT-1201,2.0,Female,Pediatrics,6.0,0,0,0,0,1,0
+PAT-1202,2.0,Male,Cardiology,6.0,0,0,0,0,1,1
+PAT-1203,54.0,Female,Dermatology,2.0,1,1,0,1,1,1
+PAT-1204,87.0,Female,Dermatology,3.0,1,1,0,0,1,0
+PAT-1205,1.0,Female,Cardiology,15.0,0,0,0,0,0,1
+PAT-1206,19.0,Female,Neurology,24.0,0,0,0,0,1,1
+PAT-1207,2.0,Female,Pediatrics,4.0,0,0,0,0,1,1
+PAT-1208,53.0,Female,Cardiology,3.0,0,1,0,0,1,1
+PAT-1209,44.0,Female,General Medicine,2.0,0,0,0,0,0,0
+PAT-1210,32.0,Female,Cardiology,11.0,0,0,0,2,1,0
+PAT-1211,70.0,Female,Pediatrics,3.0,1,1,1,0,1,1
+PAT-1212,32.0,Female,Dermatology,,0,0,0,0,1,1
+PAT-1213,68.0,Female,Pediatrics,3.0,1,0,0,3,1,1
+PAT-1214,55.0,Male,Neurology,5.0,0,0,0,0,0,1
+PAT-1215,75.0,Male,Orthopedics,9.0,0,0,0,0,0,1
+PAT-1216,56.0,Male,Neurology,16.0,0,1,0,0,1,1
+PAT-1217,17.0,Female,Pediatrics,6.0,0,0,0,1,1,0
+PAT-1218,38.0,Female,Cardiology,5.0,0,0,0,0,0,0
+PAT-1219,24.0,Female,Orthopedics,54.0,0,0,0,1,1,1
+PAT-1220,69.0,Female,Neurology,0.0,1,0,0,0,1,0
+PAT-1221,70.0,Female,General Medicine,22.0,0,0,0,0,1,0
+PAT-1222,86.0,Male,Neurology,1.0,0,1,0,1,0,1
+PAT-1223,11.0,Female,General Medicine,15.0,0,0,0,4,1,1
+PAT-1224,16.0,Female,Orthopedics,9.0,0,0,0,0,0,1
+PAT-1225,73.0,Female,Neurology,4.0,0,0,0,1,0,1
+PAT-1226,59.0,Male,General Medicine,20.0,1,1,0,0,0,0
+PAT-1227,70.0,Male,General Medicine,0.0,0,1,0,0,1,0
+PAT-1228,80.0,Male,Cardiology,2.0,1,0,0,0,0,1
+PAT-1229,3.0,Male,Neurology,8.0,0,0,0,0,1,0
+PAT-1230,20.0,Female,General Medicine,4.0,0,0,0,0,1,0
+PAT-1231,59.0,Male,Dermatology,9.0,0,1,1,0,1,1
+PAT-1232,36.0,Female,General Medicine,0.0,0,0,0,0,1,1
+PAT-1233,19.0,Female,Dermatology,1.0,0,0,0,0,1,0
+PAT-1234,67.0,Male,Dermatology,1.0,0,0,0,2,1,0
+PAT-1235,19.0,Male,Cardiology,2.0,0,0,0,4,1,1
+PAT-1236,20.0,Male,Orthopedics,6.0,0,0,0,1,1,0
+PAT-1237,71.0,Male,Cardiology,13.0,1,0,0,0,0,1
+PAT-1238,52.0,Male,Orthopedics,23.0,0,1,0,0,0,1
+PAT-1239,33.0,Female,General Medicine,18.0,0,0,0,1,1,1
+PAT-1240,40.0,Male,General Medicine,2.0,0,0,0,3,1,1
+PAT-1241,39.0,Female,General Medicine,5.0,0,0,1,0,1,0
+PAT-1242,82.0,Male,Cardiology,2.0,0,0,0,1,1,0
+PAT-1243,1.0,Female,General Medicine,3.0,0,0,0,4,0,1
+PAT-1244,11.0,Female,Orthopedics,7.0,0,0,0,2,1,1
+PAT-1245,57.0,Female,Dermatology,0.0,1,0,0,0,0,1
+PAT-1246,89.0,Female,Cardiology,2.0,1,0,0,0,1,1
+PAT-1247,50.0,Female,Orthopedics,27.0,0,0,0,0,1,1
+PAT-1248,23.0,Female,Cardiology,6.0,0,0,1,0,1,0
+PAT-1249,,Female,Neurology,5.0,0,0,0,0,0,1
+PAT-1250,42.0,Female,Dermatology,0.0,0,1,0,0,1,0
+PAT-1251,7.0,Male,Neurology,2.0,0,0,0,1,1,0
+PAT-1252,16.0,Male,Dermatology,20.0,0,0,0,0,1,1
+PAT-1253,60.0,Female,General Medicine,1.0,1,1,0,0,1,1
+PAT-1254,2.0,Female,Neurology,5.0,0,0,0,0,1,0
+PAT-1255,1.0,Female,Pediatrics,0.0,0,0,0,0,1,1
+PAT-1256,48.0,Female,General Medicine,6.0,0,0,0,1,1,0
+PAT-1257,12.0,Female,Dermatology,0.0,0,0,0,0,0,0
+PAT-1258,69.0,Male,General Medicine,17.0,1,1,0,1,1,1
+PAT-1259,,Male,Orthopedics,17.0,0,0,0,0,1,1
+PAT-1260,32.0,Male,General Medicine,15.0,0,0,0,0,1,1
+PAT-1261,9.0,Female,Cardiology,3.0,0,0,0,1,1,0
+PAT-1262,19.0,Female,Pediatrics,18.0,0,0,0,0,1,1
+PAT-1263,48.0,Male,Orthopedics,7.0,1,0,0,0,1,0
+PAT-1264,80.0,Female,Cardiology,4.0,0,1,0,0,1,0
+PAT-1265,3.0,Male,Cardiology,9.0,0,0,0,0,1,0
+PAT-1266,20.0,Female,Neurology,0.0,0,0,0,0,1,1
+PAT-1267,24.0,Female,General Medicine,1.0,0,0,0,1,1,0
+PAT-1268,54.0,Male,Cardiology,13.0,1,0,0,0,1,0
+PAT-1269,33.0,Female,Dermatology,2.0,0,0,0,4,1,1
+PAT-1270,24.0,Male,Neurology,9.0,0,0,0,0,1,0
+PAT-1271,75.0,Male,Cardiology,4.0,1,0,0,0,1,0
+PAT-1272,72.0,Male,Pediatrics,19.0,0,1,0,0,0,0
+PAT-1273,36.0,Male,Neurology,30.0,0,0,0,0,0,1
+PAT-1274,38.0,Male,Neurology,21.0,0,0,0,0,0,0
+PAT-1275,84.0,Female,Orthopedics,3.0,1,0,0,0,1,1
+PAT-1276,89.0,Female,General Medicine,2.0,0,1,0,0,0,0
+PAT-1277,25.0,Female,General Medicine,6.0,0,0,0,1,0,0
+PAT-1278,18.0,Male,General Medicine,0.0,0,0,0,0,0,1
+PAT-1279,82.0,Female,Orthopedics,0.0,1,0,0,2,1,1
+PAT-1280,66.0,Male,General Medicine,8.0,0,0,0,0,0,0
+PAT-1281,54.0,Male,Orthopedics,7.0,0,0,0,0,1,1
+PAT-1282,35.0,Female,Cardiology,52.0,0,0,0,0,0,1
+PAT-1283,80.0,Male,General Medicine,2.0,1,0,0,0,1,1
+PAT-1284,61.0,Female,Neurology,2.0,1,1,1,1,1,0
+PAT-1285,41.0,Female,Cardiology,1.0,0,0,1,0,1,0
+PAT-1286,33.0,Male,General Medicine,24.0,0,0,0,0,1,0
+PAT-1287,68.0,Male,Neurology,15.0,0,0,0,0,1,0
+PAT-1288,33.0,Male,General Medicine,17.0,0,0,0,0,1,0
+PAT-1289,,Female,Pediatrics,23.0,0,0,0,0,0,1
+PAT-1290,21.0,Male,Pediatrics,7.0,0,0,0,1,1,1
+PAT-1291,48.0,Male,Cardiology,6.0,0,0,0,0,0,0
+PAT-1292,20.0,Male,Neurology,4.0,0,0,0,3,1,0
+PAT-1293,8.0,Female,Orthopedics,8.0,0,0,0,1,0,0
+PAT-1294,7.0,Male,Cardiology,6.0,0,0,0,0,1,0
+PAT-1295,67.0,Male,General Medicine,6.0,0,1,1,0,1,0
+PAT-1296,17.0,Female,General Medicine,27.0,0,0,0,0,1,1
+PAT-1297,33.0,Female,Dermatology,41.0,0,0,0,0,1,0
+PAT-1298,48.0,Male,Cardiology,15.0,0,0,0,0,1,1
+PAT-1299,76.0,Male,Orthopedics,14.0,0,0,0,3,1,1
+PAT-1300,59.0,Male,Orthopedics,11.0,0,1,0,0,1,0
+PAT-1301,86.0,Female,Orthopedics,1.0,0,0,1,0,0,0
+PAT-1302,22.0,Male,General Medicine,0.0,0,0,0,0,1,1
+PAT-1303,30.0,Female,Cardiology,11.0,0,0,0,0,1,0
+PAT-1304,38.0,Female,Pediatrics,13.0,0,0,0,1,1,0
+PAT-1305,51.0,Female,General Medicine,0.0,1,0,0,0,1,0
+PAT-1306,54.0,Male,General Medicine,26.0,1,0,0,0,0,0
+PAT-1307,8.0,Female,General Medicine,0.0,0,0,0,0,0,1
+PAT-1308,27.0,Female,Cardiology,3.0,0,0,0,2,1,0
+PAT-1309,27.0,Female,Neurology,11.0,0,0,0,0,1,0
+PAT-1310,21.0,Male,General Medicine,1.0,0,0,1,3,1,0
+PAT-1311,30.0,Female,General Medicine,0.0,0,0,0,0,1,0
+PAT-1312,28.0,Male,Cardiology,4.0,0,0,1,0,1,1
+PAT-1313,64.0,Male,Pediatrics,14.0,1,0,0,0,0,1
+PAT-1314,69.0,Male,Orthopedics,5.0,1,0,0,0,0,0
+PAT-1315,61.0,Female,Cardiology,10.0,0,1,0,0,0,1
+PAT-1316,48.0,Male,Pediatrics,8.0,1,1,0,0,1,0
+PAT-1317,19.0,Male,Orthopedics,0.0,0,0,0,0,0,1
+PAT-1318,4.0,Male,Neurology,44.0,0,0,0,0,1,1
+PAT-1319,35.0,Male,Neurology,0.0,0,0,0,0,1,1
+PAT-1320,64.0,Female,General Medicine,34.0,1,1,0,0,0,0
+PAT-1321,49.0,Female,General Medicine,7.0,0,0,0,1,0,1
+PAT-1322,17.0,Male,General Medicine,33.0,0,0,0,0,0,1
+PAT-1323,44.0,Female,Cardiology,1.0,0,0,0,0,1,1
+PAT-1324,30.0,Female,Dermatology,6.0,0,0,1,0,1,0
+PAT-1325,46.0,Male,Cardiology,1.0,0,0,0,1,0,1
+PAT-1326,6.0,Male,General Medicine,0.0,0,0,0,1,1,1
+PAT-1327,37.0,Female,Pediatrics,9.0,0,0,0,0,1,0
+PAT-1328,24.0,Female,Orthopedics,2.0,0,0,0,0,1,0
+PAT-1329,46.0,Male,General Medicine,8.0,0,1,0,2,1,1
+PAT-1330,53.0,Female,Cardiology,1.0,1,1,0,4,1,0
+PAT-1331,60.0,Male,Cardiology,4.0,1,0,0,0,1,1
+PAT-1332,63.0,Female,Pediatrics,15.0,1,0,0,4,1,1
+PAT-1333,85.0,Male,General Medicine,,0,0,0,0,0,1
+PAT-1334,32.0,Male,General Medicine,9.0,0,0,0,1,1,1
+PAT-1335,87.0,Male,Orthopedics,10.0,0,0,1,0,1,1
+PAT-1336,33.0,Female,General Medicine,18.0,0,0,0,0,1,1
+PAT-1337,67.0,Female,Orthopedics,3.0,0,1,0,0,1,0
+PAT-1338,18.0,Male,Cardiology,11.0,0,0,0,1,1,1
+PAT-1339,25.0,Male,Cardiology,32.0,0,0,0,3,0,1
+PAT-1340,54.0,Female,Dermatology,13.0,0,0,0,0,0,1
+PAT-1341,58.0,Male,Orthopedics,6.0,1,0,0,0,0,1
+PAT-1342,67.0,Male,General Medicine,9.0,1,0,0,0,1,1
+PAT-1343,46.0,Female,Orthopedics,13.0,0,0,0,0,0,0
+PAT-1344,24.0,Male,Pediatrics,9.0,0,0,0,0,0,0
+PAT-1345,32.0,Female,Pediatrics,0.0,0,0,0,0,0,0
+PAT-1346,47.0,Female,General Medicine,2.0,0,1,0,3,0,1
+PAT-1347,86.0,Male,Dermatology,16.0,0,0,0,0,0,0
+PAT-1348,23.0,Male,Cardiology,3.0,0,0,0,0,0,0
+PAT-1349,66.0,Male,General Medicine,13.0,0,0,0,0,1,1
+PAT-1350,27.0,Female,General Medicine,4.0,0,0,0,0,0,1
+PAT-1351,2.0,Female,General Medicine,7.0,0,0,0,2,0,1
+PAT-1352,17.0,Female,Neurology,0.0,0,0,0,0,1,0
+PAT-1353,33.0,Male,General Medicine,1.0,0,0,0,0,1,1
+PAT-1354,9.0,Female,General Medicine,31.0,0,0,0,0,0,1
+PAT-1355,43.0,Female,Neurology,22.0,0,0,0,0,0,1
+PAT-1356,,Female,Cardiology,10.0,0,0,0,0,1,0
+PAT-1357,39.0,Female,General Medicine,6.0,0,0,0,0,0,1
+PAT-1358,42.0,Female,General Medicine,11.0,0,0,0,0,0,0
+PAT-1359,26.0,Female,General Medicine,9.0,0,0,0,0,0,1
+PAT-1360,50.0,Female,General Medicine,8.0,1,0,0,0,0,1
+PAT-1361,25.0,Male,Orthopedics,0.0,0,0,0,0,1,0
+PAT-1362,24.0,Male,General Medicine,10.0,0,0,0,0,1,1
+PAT-1363,13.0,Female,General Medicine,14.0,0,0,0,0,1,1
+PAT-1364,60.0,Male,Pediatrics,51.0,0,0,0,3,1,1
+PAT-1365,7.0,Female,Orthopedics,0.0,0,0,0,0,1,1
+PAT-1366,57.0,Female,Cardiology,13.0,1,0,0,0,1,1
+PAT-1367,36.0,Female,Orthopedics,8.0,0,0,0,0,1,1
+PAT-1368,45.0,Male,Cardiology,5.0,0,1,0,0,0,1
+PAT-1369,20.0,Male,Cardiology,1.0,0,0,0,0,1,1
+PAT-1370,65.0,Male,Orthopedics,5.0,0,0,0,1,1,0
+PAT-1371,8.0,Female,Cardiology,4.0,0,0,0,0,0,1
+PAT-1372,16.0,Female,Dermatology,3.0,0,0,0,0,1,1
+PAT-1373,14.0,Female,General Medicine,13.0,0,0,0,0,1,1
+PAT-1374,76.0,Male,Pediatrics,12.0,1,0,0,2,1,1
+PAT-1375,87.0,Female,General Medicine,8.0,0,1,0,0,0,0
+PAT-1376,15.0,Female,Pediatrics,27.0,0,0,0,0,1,1
+PAT-1377,66.0,Male,Orthopedics,4.0,0,1,0,3,1,1
+PAT-1378,32.0,Female,Neurology,2.0,0,0,0,1,1,0
+PAT-1379,87.0,Male,General Medicine,10.0,1,1,0,1,0,1
+PAT-1380,63.0,Male,Orthopedics,2.0,0,0,0,0,0,0
+PAT-1381,86.0,Female,Orthopedics,3.0,0,1,0,0,1,0
+PAT-1382,51.0,Male,Pediatrics,2.0,0,0,0,0,1,0
+PAT-1383,25.0,Female,Orthopedics,0.0,0,0,0,0,1,1
+PAT-1384,58.0,Female,Orthopedics,17.0,0,0,0,0,1,1
+PAT-1385,63.0,Female,Cardiology,2.0,1,0,0,1,1,1
+PAT-1386,62.0,Male,Cardiology,6.0,1,0,0,1,1,1
+PAT-1387,22.0,Female,Cardiology,0.0,0,0,0,0,0,1
+PAT-1388,58.0,Female,General Medicine,12.0,1,0,0,0,0,0
+PAT-1389,58.0,Female,Dermatology,4.0,0,0,0,0,1,1
+PAT-1390,86.0,Male,Pediatrics,13.0,0,0,0,1,1,0
+PAT-1391,49.0,Male,Dermatology,5.0,0,1,0,0,1,0
+PAT-1392,52.0,Female,General Medicine,2.0,0,1,0,1,1,0
+PAT-1393,42.0,Male,Neurology,7.0,0,1,0,0,0,1
+PAT-1394,70.0,Female,Neurology,1.0,1,0,0,0,1,1
+PAT-1395,15.0,Female,Orthopedics,5.0,0,0,0,1,1,0
+PAT-1396,54.0,Female,Orthopedics,3.0,1,0,0,0,1,0
+PAT-1397,60.0,Female,Cardiology,24.0,1,0,0,0,0,0
+PAT-1398,8.0,Female,Neurology,0.0,0,0,0,1,1,0
+PAT-1399,53.0,Female,Orthopedics,11.0,0,0,1,0,1,1
+PAT-1400,60.0,Female,General Medicine,2.0,0,0,0,0,1,0
+PAT-1401,5.0,Female,Cardiology,3.0,0,0,0,0,1,1
+PAT-1402,68.0,Male,Dermatology,5.0,0,0,0,0,0,0
+PAT-1403,6.0,Male,Neurology,23.0,0,0,0,1,0,1
+PAT-1404,47.0,Female,Dermatology,2.0,0,0,0,1,0,0
+PAT-1405,55.0,Male,Orthopedics,0.0,0,1,0,2,1,0
+PAT-1406,40.0,Female,General Medicine,3.0,0,0,0,0,1,0
+PAT-1407,52.0,Male,General Medicine,1.0,1,0,0,0,1,1
+PAT-1408,16.0,Female,General Medicine,1.0,0,0,0,0,0,1
+PAT-1409,13.0,Female,General Medicine,8.0,0,0,0,1,1,0
+PAT-1410,30.0,Female,Cardiology,0.0,0,0,0,0,1,1
+PAT-1411,19.0,Female,General Medicine,0.0,0,0,0,0,0,1
+PAT-1412,17.0,Female,Cardiology,12.0,0,0,0,1,1,1
+PAT-1413,63.0,Male,Dermatology,4.0,0,0,0,0,0,1
+PAT-1414,19.0,Female,Cardiology,1.0,0,0,0,0,0,1
+PAT-1415,58.0,Male,Neurology,2.0,0,0,0,0,0,0
+PAT-1416,55.0,Female,Orthopedics,10.0,0,0,0,2,1,0
+PAT-1417,62.0,Female,General Medicine,3.0,0,0,0,0,1,0
+PAT-1418,23.0,Male,Cardiology,6.0,0,0,0,3,0,1
+PAT-1419,9.0,Male,General Medicine,1.0,0,0,0,0,1,0
+PAT-1420,12.0,Female,Cardiology,8.0,0,0,0,4,1,0
+PAT-1421,1.0,Male,Orthopedics,3.0,0,0,0,0,1,0
+PAT-1422,58.0,Male,General Medicine,9.0,0,0,0,0,0,0
+PAT-1423,1.0,Female,General Medicine,16.0,0,0,0,1,1,0
+PAT-1424,34.0,Female,Cardiology,9.0,0,0,0,2,1,1
+PAT-1425,48.0,Female,Dermatology,3.0,1,1,0,0,0,0
+PAT-1426,89.0,Female,Pediatrics,2.0,1,0,0,1,0,1
+PAT-1427,1.0,Female,Pediatrics,3.0,0,0,0,2,1,1
+PAT-1428,16.0,Female,General Medicine,1.0,0,0,0,0,0,0
+PAT-1429,61.0,Male,Pediatrics,1.0,0,0,0,0,1,1
+PAT-1430,64.0,Female,Pediatrics,15.0,0,0,0,2,0,1
+PAT-1431,63.0,Male,Orthopedics,4.0,0,1,0,0,1,0
+PAT-1432,69.0,Female,Dermatology,5.0,1,0,1,0,0,0
+PAT-1433,22.0,Female,Cardiology,9.0,0,0,0,1,0,1
+PAT-1434,67.0,Female,Dermatology,8.0,1,1,0,0,0,0
+PAT-1435,76.0,Male,Dermatology,0.0,0,1,0,0,1,1
+PAT-1436,26.0,Female,General Medicine,17.0,0,0,0,3,1,1
+PAT-1437,16.0,Female,Cardiology,1.0,0,0,0,0,0,1
+PAT-1438,51.0,Male,Dermatology,12.0,1,1,0,1,0,1
+PAT-1439,86.0,Male,General Medicine,14.0,1,0,0,1,1,1
+PAT-1440,57.0,Female,Orthopedics,12.0,1,0,0,0,1,1
+PAT-1441,29.0,Male,Dermatology,8.0,0,0,0,0,1,0
+PAT-1442,78.0,Female,Orthopedics,0.0,1,0,0,0,0,0
+PAT-1443,69.0,Male,General Medicine,4.0,0,0,0,0,1,0
+PAT-1444,47.0,Male,Orthopedics,9.0,0,0,0,0,1,0
+PAT-1445,62.0,Female,General Medicine,4.0,0,1,0,0,1,1
+PAT-1446,69.0,Male,Orthopedics,19.0,1,0,0,0,1,0
+PAT-1447,76.0,Female,General Medicine,3.0,1,0,0,0,0,0
+PAT-1448,16.0,Male,Orthopedics,3.0,0,0,0,0,0,1
+PAT-1449,48.0,Male,Orthopedics,3.0,1,0,0,0,1,1
+PAT-1450,85.0,Female,Pediatrics,4.0,1,0,0,0,1,0
+PAT-1451,39.0,Female,Orthopedics,8.0,0,0,0,0,1,0
+PAT-1452,33.0,Female,Orthopedics,12.0,0,0,0,0,1,0
+PAT-1453,23.0,Female,Pediatrics,10.0,0,0,0,0,1,1
+PAT-1454,10.0,Female,General Medicine,16.0,0,0,0,0,1,1
+PAT-1455,69.0,Male,Orthopedics,21.0,0,0,0,1,1,1
+PAT-1456,34.0,Male,General Medicine,16.0,0,0,0,0,0,0
+PAT-1457,52.0,Female,Dermatology,0.0,1,0,0,0,0,1
+PAT-1458,10.0,Female,General Medicine,13.0,0,0,0,0,1,1
+PAT-1459,19.0,Female,Cardiology,2.0,0,0,0,0,0,0
+PAT-1460,58.0,Male,Pediatrics,1.0,0,0,0,0,0,0
+PAT-1461,1.0,Male,Cardiology,10.0,0,0,0,3,0,1
+PAT-1462,69.0,Female,General Medicine,3.0,0,1,0,0,0,1
+PAT-1463,4.0,Female,Orthopedics,0.0,0,0,0,4,0,1
+PAT-1464,16.0,Female,Orthopedics,1.0,0,0,0,0,1,0
+PAT-1465,24.0,Female,Pediatrics,0.0,0,0,0,0,1,1
+PAT-1466,80.0,Female,Cardiology,23.0,0,1,0,0,1,1
+PAT-1467,2.0,Male,Orthopedics,0.0,0,0,0,0,1,0
+PAT-1468,32.0,Male,Cardiology,2.0,0,0,0,0,1,1
+PAT-1469,84.0,Male,Orthopedics,5.0,1,0,0,0,0,0
+PAT-1470,24.0,Male,Orthopedics,4.0,0,0,0,0,1,0
+PAT-1471,12.0,Female,Orthopedics,24.0,0,0,0,0,0,1
+PAT-1472,50.0,Female,General Medicine,0.0,1,1,0,0,1,0
+PAT-1473,35.0,Female,General Medicine,7.0,0,0,0,0,1,0
+PAT-1474,33.0,Male,General Medicine,11.0,0,0,0,0,1,0
+PAT-1475,33.0,Male,General Medicine,26.0,0,0,0,0,1,1
+PAT-1476,61.0,Male,Cardiology,9.0,1,0,1,2,1,0
+PAT-1477,51.0,Male,Orthopedics,16.0,1,0,0,0,1,1
+PAT-1478,43.0,Female,General Medicine,0.0,0,0,0,0,0,0
+PAT-1479,12.0,Male,Dermatology,4.0,0,0,0,0,1,0
+PAT-1480,67.0,Female,General Medicine,4.0,1,0,0,2,1,1
+PAT-1481,65.0,Male,Pediatrics,21.0,1,0,0,0,0,0
+PAT-1482,33.0,Male,Orthopedics,1.0,0,0,0,0,0,0
+PAT-1483,40.0,Male,Cardiology,1.0,0,0,0,0,1,1
+PAT-1484,74.0,Female,General Medicine,3.0,1,0,0,0,0,1
+PAT-1485,43.0,Female,Orthopedics,0.0,0,1,0,0,0,0
+PAT-1486,44.0,Male,Cardiology,2.0,0,0,0,0,1,1
+PAT-1487,29.0,Male,Dermatology,33.0,0,0,1,2,0,1
+PAT-1488,13.0,Female,Orthopedics,5.0,0,0,0,0,1,0
+PAT-1489,12.0,Male,Dermatology,9.0,0,0,0,0,1,0
+PAT-1490,46.0,Male,General Medicine,12.0,1,1,0,0,1,0
+PAT-1491,2.0,Female,Pediatrics,4.0,0,0,0,0,0,1
+PAT-1492,,Female,Orthopedics,1.0,0,0,0,0,1,1
+PAT-1493,87.0,Male,Pediatrics,2.0,0,0,0,0,1,1
+PAT-1494,81.0,Female,General Medicine,3.0,0,0,0,0,0,0
+PAT-1495,8.0,Female,Orthopedics,10.0,0,0,0,0,0,0
+PAT-1496,26.0,Male,Cardiology,5.0,0,0,0,0,1,1
+PAT-1497,74.0,Female,Pediatrics,0.0,0,0,0,0,0,1
+PAT-1498,34.0,Female,Cardiology,7.0,0,0,0,0,0,0
+PAT-1499,7.0,Male,Neurology,25.0,0,0,0,0,0,1
+PAT-1500,68.0,Male,General Medicine,16.0,1,0,0,3,0,1
+PAT-1501,58.0,Male,Neurology,17.0,1,0,0,0,0,0
+PAT-1502,75.0,Female,Neurology,15.0,1,0,0,0,1,1
+PAT-1503,29.0,Male,Neurology,3.0,0,0,0,2,1,0
+PAT-1504,36.0,Female,Orthopedics,14.0,0,0,0,0,0,0
+PAT-1505,89.0,Female,Cardiology,1.0,1,0,0,3,1,1
+PAT-1506,21.0,Male,Dermatology,10.0,0,0,0,0,1,1
+PAT-1507,36.0,Female,General Medicine,10.0,0,0,0,0,1,1
+PAT-1508,10.0,Male,Orthopedics,0.0,0,0,0,0,1,0
+PAT-1509,73.0,Female,Orthopedics,15.0,0,1,0,2,1,1
+PAT-1510,24.0,Female,Pediatrics,23.0,0,0,0,0,1,0
+PAT-1511,64.0,Male,General Medicine,3.0,1,0,0,3,1,0
+PAT-1512,49.0,Female,Orthopedics,16.0,1,0,1,0,1,0
+PAT-1513,36.0,Male,Neurology,0.0,0,0,0,1,0,1
+PAT-1514,82.0,Male,General Medicine,9.0,0,0,0,0,0,0
+PAT-1515,24.0,Male,Dermatology,6.0,0,0,0,0,1,0
+PAT-1516,23.0,Male,General Medicine,7.0,0,0,0,2,1,1
+PAT-1517,62.0,Female,Cardiology,26.0,0,0,0,3,1,1
+PAT-1518,37.0,Male,General Medicine,20.0,0,0,0,0,1,1
+PAT-1519,12.0,Male,General Medicine,15.0,0,0,0,0,0,1
+PAT-1520,55.0,Female,Dermatology,,1,1,0,0,1,0
+PAT-1521,13.0,Male,Cardiology,24.0,0,0,0,0,0,1
+PAT-1522,23.0,Female,Cardiology,1.0,0,0,0,0,0,0
+PAT-1523,89.0,Female,General Medicine,19.0,0,0,0,0,1,0
+PAT-1524,30.0,Female,Orthopedics,3.0,0,0,0,0,0,0
+PAT-1525,17.0,Male,Orthopedics,0.0,0,0,0,1,1,0
+PAT-1526,62.0,Male,Cardiology,11.0,1,0,0,0,1,1
+PAT-1527,84.0,Male,Cardiology,2.0,0,1,0,0,0,0
+PAT-1528,89.0,Female,Neurology,2.0,0,0,0,0,1,1
+PAT-1529,86.0,Male,Cardiology,3.0,1,1,0,0,1,0
+PAT-1530,13.0,Male,Cardiology,0.0,0,0,0,0,0,1
+PAT-1531,59.0,Female,General Medicine,1.0,1,0,0,0,0,0
+PAT-1532,19.0,Female,Pediatrics,0.0,0,0,0,0,1,0
+PAT-1533,49.0,Male,Cardiology,5.0,0,0,0,1,1,1
+PAT-1534,12.0,Male,Orthopedics,0.0,0,0,0,0,0,0
+PAT-1535,61.0,Female,General Medicine,11.0,0,1,0,3,0,1
+PAT-1536,19.0,Male,Dermatology,2.0,0,0,0,1,1,1
+PAT-1537,76.0,Female,General Medicine,28.0,0,0,0,1,1,1
+PAT-1538,9.0,Female,Pediatrics,20.0,0,0,0,0,0,0
+PAT-1539,71.0,Male,Cardiology,3.0,0,0,0,0,1,1
+PAT-1540,28.0,Female,General Medicine,15.0,0,0,0,0,1,1
+PAT-1541,78.0,Male,Pediatrics,16.0,0,0,1,0,1,1
+PAT-1542,52.0,Male,Cardiology,43.0,1,1,0,0,0,1
+PAT-1543,83.0,Female,Neurology,9.0,0,0,0,0,1,1
+PAT-1544,16.0,Female,Dermatology,0.0,0,0,0,0,0,1
+PAT-1545,69.0,Female,Neurology,10.0,1,1,0,0,1,1
+PAT-1546,12.0,Female,General Medicine,9.0,0,0,0,0,1,1
+PAT-1547,25.0,Male,Pediatrics,10.0,0,0,0,4,1,1
+PAT-1548,52.0,Male,Cardiology,3.0,1,0,0,0,1,0
+PAT-1549,85.0,Male,Neurology,19.0,0,1,0,0,1,1
+PAT-1550,53.0,Male,Orthopedics,32.0,1,0,0,0,1,0
+PAT-1551,23.0,Male,Neurology,2.0,0,0,0,2,0,1
+PAT-1552,16.0,Male,Cardiology,0.0,0,0,0,0,1,0
+PAT-1553,57.0,Male,Orthopedics,2.0,0,0,0,0,0,0
+PAT-1554,39.0,Male,General Medicine,17.0,0,0,0,0,0,1
+PAT-1555,53.0,Female,Pediatrics,11.0,0,1,0,0,1,0
+PAT-1556,42.0,Female,Cardiology,10.0,0,0,0,0,1,1
+PAT-1557,58.0,Male,Orthopedics,5.0,0,1,0,1,1,1
+PAT-1558,39.0,Female,Pediatrics,8.0,0,0,0,1,1,0
+PAT-1559,14.0,Female,Orthopedics,3.0,0,0,0,1,1,1
+PAT-1560,5.0,Male,General Medicine,6.0,0,0,0,1,1,1
+PAT-1561,35.0,Female,Orthopedics,15.0,0,0,0,0,0,1
+PAT-1562,87.0,Female,Cardiology,39.0,0,0,0,1,1,1
+PAT-1563,75.0,Female,Cardiology,26.0,1,0,0,0,1,1
+PAT-1564,18.0,Male,General Medicine,27.0,0,0,0,0,0,1
+PAT-1565,76.0,Female,General Medicine,5.0,1,0,0,0,0,1
+PAT-1566,9.0,Male,General Medicine,6.0,0,0,0,0,1,1
+PAT-1567,74.0,Female,Pediatrics,12.0,0,0,0,0,0,0
+PAT-1568,58.0,Female,General Medicine,25.0,1,0,0,0,0,0
+PAT-1569,17.0,Female,Cardiology,1.0,0,0,0,0,0,0
+PAT-1570,7.0,Female,Dermatology,3.0,0,0,0,1,0,0
+PAT-1571,46.0,Female,General Medicine,1.0,1,0,0,0,1,0
+PAT-1572,13.0,Male,Orthopedics,9.0,0,0,0,0,1,0
+PAT-1573,40.0,Male,Pediatrics,3.0,0,0,0,1,0,1
+PAT-1574,42.0,Female,Dermatology,3.0,0,0,0,0,1,1
+PAT-1575,9.0,Male,Pediatrics,0.0,0,0,0,1,0,0
+PAT-1576,50.0,Male,Pediatrics,4.0,0,1,0,0,1,1
+PAT-1577,27.0,Male,Neurology,19.0,0,0,1,3,1,0
+PAT-1578,66.0,Male,Cardiology,2.0,0,0,1,0,1,0
+PAT-1579,5.0,Female,Neurology,11.0,0,0,0,0,1,0
+PAT-1580,29.0,Female,General Medicine,9.0,0,0,0,0,1,1
+PAT-1581,37.0,Female,Dermatology,19.0,0,0,0,0,1,1
+PAT-1582,38.0,Female,Cardiology,1.0,0,0,0,2,1,1
+PAT-1583,83.0,Female,Orthopedics,37.0,1,0,0,0,1,1
+PAT-1584,8.0,Male,General Medicine,8.0,0,0,0,0,1,1
+PAT-1585,65.0,Female,Pediatrics,53.0,1,1,0,0,1,1
+PAT-1586,86.0,Male,General Medicine,24.0,1,0,0,1,1,1
+PAT-1587,17.0,Female,Neurology,2.0,0,0,0,0,0,1
+PAT-1588,71.0,Female,Neurology,0.0,1,0,0,4,1,0
+PAT-1589,89.0,Male,General Medicine,2.0,1,0,0,0,0,1
+PAT-1590,45.0,Female,Neurology,7.0,0,1,0,0,0,1
+PAT-1591,4.0,Female,Pediatrics,1.0,0,0,0,0,0,0
+PAT-1592,36.0,Female,Orthopedics,1.0,0,0,0,1,1,0
+PAT-1593,70.0,Male,Cardiology,6.0,0,1,0,2,1,1
+PAT-1594,31.0,Female,General Medicine,0.0,0,0,0,0,1,0
+PAT-1595,19.0,Female,General Medicine,1.0,0,0,0,0,1,0
+PAT-1596,61.0,Male,Cardiology,5.0,1,0,0,1,1,1
+PAT-1597,54.0,Male,Dermatology,0.0,0,1,0,0,1,1
+PAT-1598,39.0,Female,General Medicine,5.0,0,0,0,0,1,0
+PAT-1599,74.0,Male,Neurology,6.0,1,1,0,0,1,1
+PAT-1600,19.0,Female,Cardiology,6.0,0,0,0,0,0,0
+PAT-1601,39.0,Female,Orthopedics,20.0,0,0,0,0,1,1
+PAT-1602,67.0,Female,Pediatrics,7.0,1,0,0,0,1,0
+PAT-1603,45.0,Male,Neurology,6.0,0,0,0,0,1,0
+PAT-1604,13.0,Female,Cardiology,5.0,0,0,0,1,1,1
+PAT-1605,58.0,Male,Cardiology,17.0,0,1,0,0,1,0
+PAT-1606,20.0,Male,Cardiology,22.0,0,0,0,1,1,0
+PAT-1607,72.0,Female,General Medicine,19.0,0,1,0,0,1,1
+PAT-1608,61.0,Male,General Medicine,11.0,0,1,0,0,1,0
+PAT-1609,39.0,Male,Cardiology,1.0,0,0,0,0,0,1
+PAT-1610,1.0,Female,Cardiology,3.0,0,0,0,1,1,0
+PAT-1611,3.0,Male,Pediatrics,0.0,0,0,0,0,1,1
+PAT-1612,77.0,Male,Cardiology,26.0,0,0,0,2,1,1
+PAT-1613,62.0,Female,Cardiology,10.0,1,1,0,0,1,1
+PAT-1614,63.0,Female,Cardiology,13.0,1,1,0,0,0,1
+PAT-1615,25.0,Female,Pediatrics,3.0,0,0,0,3,0,1
+PAT-1616,56.0,Male,Neurology,18.0,0,1,0,0,1,0
+PAT-1617,33.0,Male,Orthopedics,3.0,0,0,0,0,1,0
+PAT-1618,38.0,Male,Pediatrics,0.0,0,0,0,3,0,1
+PAT-1619,6.0,Male,General Medicine,4.0,0,0,0,0,0,1
+PAT-1620,58.0,Female,Orthopedics,8.0,1,1,0,0,1,0
+PAT-1621,44.0,Male,Cardiology,6.0,0,1,0,4,0,1
+PAT-1622,45.0,Male,Cardiology,19.0,0,0,0,0,0,1
+PAT-1623,32.0,Female,Pediatrics,1.0,0,0,0,2,0,1
+PAT-1624,45.0,Female,Neurology,8.0,0,1,0,0,1,1
+PAT-1625,61.0,Female,General Medicine,7.0,0,0,0,1,1,1
+PAT-1626,47.0,Male,Orthopedics,3.0,1,0,0,0,0,0
+PAT-1627,21.0,Male,Orthopedics,17.0,0,0,0,4,1,1
+PAT-1628,80.0,Male,General Medicine,13.0,0,0,0,0,0,1
+PAT-1629,85.0,Male,General Medicine,13.0,0,1,0,0,0,0
+PAT-1630,75.0,Female,Cardiology,20.0,1,0,0,0,0,1
+PAT-1631,36.0,Female,General Medicine,12.0,0,0,0,0,0,1
+PAT-1632,19.0,Female,General Medicine,2.0,0,0,1,1,0,1
+PAT-1633,20.0,Female,General Medicine,12.0,0,0,0,2,0,1
+PAT-1634,57.0,Male,Cardiology,3.0,1,0,0,0,1,1
+PAT-1635,18.0,Female,Pediatrics,2.0,0,0,0,1,1,1
+PAT-1636,47.0,Male,Orthopedics,0.0,1,0,0,0,1,1
+PAT-1637,49.0,Female,Dermatology,13.0,1,0,0,0,1,1
+PAT-1638,14.0,Female,Cardiology,12.0,0,0,0,0,0,0
+PAT-1639,15.0,Male,Pediatrics,2.0,0,0,0,0,1,0
+PAT-1640,31.0,Male,Neurology,13.0,0,0,0,0,0,1
+PAT-1641,1.0,Female,Orthopedics,24.0,0,0,0,1,1,1
+PAT-1642,54.0,Male,Cardiology,1.0,0,0,0,0,0,0
+PAT-1643,3.0,Male,Pediatrics,2.0,0,0,0,0,1,0
+PAT-1644,16.0,Male,General Medicine,13.0,0,0,0,0,1,1
+PAT-1645,87.0,Female,Cardiology,3.0,1,1,0,1,0,1
+PAT-1646,57.0,Female,Orthopedics,9.0,1,1,0,0,1,0
+PAT-1647,75.0,Female,Orthopedics,0.0,1,0,0,0,0,1
+PAT-1648,12.0,Male,General Medicine,6.0,0,0,0,0,1,1
+PAT-1649,74.0,Female,Dermatology,13.0,0,0,0,1,1,1
+PAT-1650,16.0,Male,Pediatrics,11.0,0,0,0,0,0,0
+PAT-1651,72.0,Female,Cardiology,16.0,1,0,0,1,0,0
+PAT-1652,76.0,Female,Dermatology,20.0,1,0,0,0,0,1
+PAT-1653,24.0,Male,Cardiology,14.0,0,0,0,1,1,1
+PAT-1654,28.0,Male,Dermatology,11.0,0,0,0,0,0,0
+PAT-1655,8.0,Male,Orthopedics,0.0,0,0,0,0,1,1
+PAT-1656,36.0,Male,General Medicine,7.0,0,0,0,0,1,1
+PAT-1657,8.0,Male,Pediatrics,0.0,0,0,0,0,0,1
+PAT-1658,58.0,Female,Orthopedics,16.0,0,1,0,0,1,0
+PAT-1659,60.0,Female,Pediatrics,3.0,0,1,0,3,1,0
+PAT-1660,50.0,Male,Dermatology,8.0,0,0,0,4,0,0
+PAT-1661,28.0,Male,Pediatrics,3.0,0,0,0,1,1,1
+PAT-1662,41.0,Male,Orthopedics,15.0,0,0,0,0,1,1
+PAT-1663,64.0,Female,Neurology,21.0,0,0,0,0,1,1
+PAT-1664,27.0,Male,Orthopedics,5.0,0,0,0,0,0,0
+PAT-1665,63.0,Female,Cardiology,19.0,0,0,0,0,0,1
+PAT-1666,17.0,Female,Neurology,3.0,0,0,0,3,1,1
+PAT-1667,73.0,Female,General Medicine,7.0,0,0,0,0,1,0
+PAT-1668,33.0,Female,Pediatrics,19.0,0,0,0,4,1,1
+PAT-1669,84.0,Male,Neurology,3.0,0,0,0,0,0,0
+PAT-1670,77.0,Female,Pediatrics,30.0,0,0,0,1,1,0
+PAT-1671,29.0,Male,Pediatrics,1.0,0,0,0,0,1,1
+PAT-1672,13.0,Male,Pediatrics,0.0,0,0,0,2,0,1
+PAT-1673,46.0,Female,Cardiology,23.0,0,1,0,0,0,1
+PAT-1674,35.0,Female,Neurology,0.0,0,0,0,0,1,1
+PAT-1675,6.0,Female,General Medicine,48.0,0,0,0,1,1,1
+PAT-1676,82.0,Male,General Medicine,30.0,0,0,0,0,1,0
+PAT-1677,69.0,Male,General Medicine,1.0,0,0,0,0,1,1
+PAT-1678,,Female,Orthopedics,7.0,0,0,0,0,1,0
+PAT-1679,25.0,Male,Orthopedics,2.0,0,0,0,0,0,1
+PAT-1680,66.0,Female,Neurology,5.0,0,1,0,0,1,1
+PAT-1681,10.0,Female,Cardiology,,0,0,0,0,1,1
+PAT-1682,56.0,Female,Cardiology,2.0,1,1,0,0,1,0
+PAT-1683,30.0,Male,General Medicine,4.0,0,0,0,0,0,1
+PAT-1684,5.0,Female,Cardiology,5.0,0,0,0,0,1,0
+PAT-1685,33.0,Male,Orthopedics,37.0,0,0,0,0,1,0
+PAT-1686,65.0,Female,General Medicine,16.0,0,0,0,2,0,0
+PAT-1687,18.0,Female,General Medicine,13.0,0,0,0,2,0,1
+PAT-1688,49.0,Female,General Medicine,7.0,1,0,0,0,1,1
+PAT-1689,11.0,Male,General Medicine,18.0,0,0,0,0,1,0
+PAT-1690,85.0,Female,Cardiology,4.0,0,0,0,0,1,0
+PAT-1691,26.0,Male,General Medicine,12.0,0,0,0,1,1,0
+PAT-1692,63.0,Male,Pediatrics,50.0,0,0,0,0,0,1
+PAT-1693,89.0,Male,Neurology,3.0,0,1,0,0,1,0
+PAT-1694,86.0,Female,Orthopedics,11.0,1,1,0,0,1,1
+PAT-1695,59.0,Female,Dermatology,18.0,0,0,1,0,1,1
+PAT-1696,27.0,Female,Cardiology,24.0,0,0,0,0,1,0
+PAT-1697,49.0,Male,Orthopedics,12.0,1,1,0,0,1,0
+PAT-1698,77.0,Male,Dermatology,3.0,1,1,1,0,0,0
+PAT-1699,33.0,Female,General Medicine,3.0,0,0,0,0,0,0
+PAT-1700,1.0,Male,Dermatology,0.0,0,0,0,0,0,1
+PAT-1701,21.0,Female,General Medicine,14.0,0,0,0,3,0,1
+PAT-1702,55.0,Female,Cardiology,0.0,1,0,1,0,1,0
+PAT-1703,6.0,Female,General Medicine,19.0,0,0,0,0,1,1
+PAT-1704,81.0,Female,Pediatrics,1.0,0,0,0,0,1,0
+PAT-1705,69.0,Female,Orthopedics,1.0,1,1,0,0,0,1
+PAT-1706,5.0,Male,Pediatrics,6.0,0,0,0,0,1,1
+PAT-1707,3.0,Male,Cardiology,13.0,0,0,0,0,1,1
+PAT-1708,53.0,Female,Cardiology,1.0,0,1,0,1,0,1
+PAT-1709,23.0,Female,General Medicine,5.0,0,0,0,0,1,0
+PAT-1710,53.0,Male,Cardiology,6.0,0,0,0,0,1,1
+PAT-1711,37.0,Male,Dermatology,2.0,0,0,0,0,1,1
+PAT-1712,74.0,Male,Cardiology,1.0,1,0,0,0,0,0
+PAT-1713,74.0,Female,Neurology,18.0,1,0,0,3,1,1
+PAT-1714,83.0,Female,Neurology,6.0,1,0,0,0,0,0
+PAT-1715,17.0,Female,Cardiology,0.0,0,0,0,0,0,1
+PAT-1716,85.0,Male,Orthopedics,16.0,1,0,0,1,1,1
+PAT-1717,78.0,Female,General Medicine,39.0,1,1,0,1,1,0
+PAT-1718,73.0,Female,General Medicine,9.0,0,0,0,0,1,0
+PAT-1719,1.0,Male,General Medicine,7.0,0,0,0,0,1,1
+PAT-1720,51.0,Male,Orthopedics,21.0,1,0,0,0,1,0
+PAT-1721,45.0,Male,Cardiology,30.0,0,0,0,0,0,0
+PAT-1722,77.0,Male,Orthopedics,14.0,1,0,0,1,1,1
+PAT-1723,4.0,Female,Orthopedics,5.0,0,0,0,0,0,1
+PAT-1724,62.0,Female,Cardiology,8.0,0,0,0,0,0,1
+PAT-1725,65.0,Female,Orthopedics,12.0,1,1,0,0,1,1
+PAT-1726,32.0,Male,Pediatrics,2.0,0,0,0,0,1,1
+PAT-1727,34.0,Male,General Medicine,5.0,0,0,0,0,1,0
+PAT-1728,72.0,Female,General Medicine,17.0,1,0,0,3,0,1
+PAT-1729,39.0,Male,Pediatrics,10.0,0,0,0,0,0,0
+PAT-1730,26.0,Female,Cardiology,5.0,0,0,0,0,0,1
+PAT-1731,,Female,Orthopedics,10.0,0,0,0,3,0,1
+PAT-1732,54.0,Female,Cardiology,1.0,1,0,0,0,0,0
+PAT-1733,3.0,Female,Cardiology,5.0,0,0,0,1,1,1
+PAT-1734,50.0,Male,General Medicine,15.0,1,1,0,0,1,1
+PAT-1735,12.0,Male,General Medicine,2.0,0,0,0,0,1,1
+PAT-1736,65.0,Male,Orthopedics,2.0,0,0,0,0,1,0
+PAT-1737,54.0,Female,Cardiology,30.0,0,0,0,1,0,1
+PAT-1738,5.0,Male,Pediatrics,2.0,0,0,0,0,1,1
+PAT-1739,57.0,Male,Neurology,3.0,1,1,0,0,0,0
+PAT-1740,17.0,Female,Orthopedics,34.0,0,0,0,1,1,0
+PAT-1741,47.0,Male,Pediatrics,13.0,0,1,0,0,1,1
+PAT-1742,23.0,Male,Cardiology,12.0,0,0,0,0,1,1
+PAT-1743,79.0,Male,Cardiology,19.0,0,0,0,0,0,0
+PAT-1744,85.0,Female,Pediatrics,1.0,0,1,0,0,1,0
+PAT-1745,14.0,Female,Cardiology,12.0,0,0,0,0,0,1
+PAT-1746,66.0,Female,Orthopedics,7.0,0,1,0,0,0,1
+PAT-1747,75.0,Male,General Medicine,17.0,1,0,0,4,0,1
+PAT-1748,51.0,Female,Orthopedics,7.0,0,1,0,1,1,0
+PAT-1749,38.0,Female,Neurology,9.0,0,0,0,0,1,0
+PAT-1750,64.0,Male,Neurology,6.0,1,1,0,2,0,1
+PAT-1751,38.0,Female,Pediatrics,6.0,0,0,0,0,1,1
+PAT-1752,50.0,Male,Pediatrics,14.0,0,0,0,0,1,0
+PAT-1753,82.0,Female,Orthopedics,9.0,1,1,0,0,1,1
+PAT-1754,30.0,Female,Orthopedics,10.0,0,0,0,0,0,1
+PAT-1755,79.0,Male,General Medicine,5.0,0,0,0,1,1,1
+PAT-1756,51.0,Female,Cardiology,7.0,0,0,0,0,1,0
+PAT-1757,63.0,Female,Cardiology,13.0,1,0,0,0,1,1
+PAT-1758,52.0,Female,Dermatology,17.0,1,0,0,0,1,0
+PAT-1759,38.0,Male,Cardiology,11.0,0,0,0,0,1,0
+PAT-1760,88.0,Male,Orthopedics,25.0,0,1,0,0,0,0
+PAT-1761,79.0,Male,Orthopedics,17.0,0,0,0,0,0,0
+PAT-1762,30.0,Female,Orthopedics,8.0,0,0,1,0,0,1
+PAT-1763,51.0,Male,Pediatrics,11.0,1,0,1,1,1,1
+PAT-1764,81.0,Female,General Medicine,26.0,0,1,0,0,0,1
+PAT-1765,5.0,Female,Orthopedics,9.0,0,0,0,0,1,1
+PAT-1766,29.0,Male,Neurology,17.0,0,0,0,0,1,0
+PAT-1767,4.0,Female,Cardiology,11.0,0,0,0,1,1,1
+PAT-1768,10.0,Male,General Medicine,8.0,0,0,0,0,1,1
+PAT-1769,56.0,Female,Orthopedics,2.0,0,0,0,1,1,0
+PAT-1770,17.0,Female,Neurology,5.0,0,0,0,4,1,1
+PAT-1771,74.0,Male,General Medicine,34.0,0,0,1,4,1,1
+PAT-1772,17.0,Male,Pediatrics,10.0,0,0,0,1,0,1
+PAT-1773,84.0,Male,Neurology,8.0,0,0,0,1,1,1
+PAT-1774,88.0,Female,Cardiology,27.0,0,1,0,0,1,1
+PAT-1775,69.0,Female,Dermatology,8.0,0,0,0,1,1,0
+PAT-1776,34.0,Female,Pediatrics,7.0,0,0,0,0,1,1
+PAT-1777,6.0,Male,Pediatrics,14.0,0,0,0,3,1,1
+PAT-1778,53.0,Male,Pediatrics,12.0,1,0,1,0,0,1
+PAT-1779,66.0,Male,General Medicine,2.0,1,0,0,0,1,1
+PAT-1780,77.0,Female,General Medicine,6.0,0,1,0,0,0,1
+PAT-1781,43.0,Female,Cardiology,6.0,0,0,0,0,0,0
+PAT-1782,75.0,Male,General Medicine,4.0,0,0,0,0,1,0
+PAT-1783,23.0,Male,Cardiology,7.0,0,0,1,0,1,0
+PAT-1784,55.0,Female,Neurology,5.0,0,0,0,1,0,1
+PAT-1785,80.0,Female,Neurology,2.0,0,0,0,0,1,0
+PAT-1786,75.0,Female,Orthopedics,5.0,1,0,0,0,1,1
+PAT-1787,16.0,Female,Neurology,0.0,0,0,0,1,1,1
+PAT-1788,8.0,Male,Pediatrics,8.0,0,0,0,0,1,1
+PAT-1789,4.0,Male,Cardiology,19.0,0,0,0,0,1,1
+PAT-1790,4.0,Female,General Medicine,12.0,0,0,0,0,0,0
+PAT-1791,56.0,Female,Orthopedics,4.0,0,1,0,1,1,0
+PAT-1792,25.0,Male,Pediatrics,0.0,0,0,0,0,0,0
+PAT-1793,67.0,Female,Cardiology,2.0,1,0,0,0,0,0
+PAT-1794,67.0,Female,Orthopedics,7.0,0,0,0,0,1,1
+PAT-1795,27.0,Female,General Medicine,2.0,0,0,0,0,1,1
+PAT-1796,32.0,Female,Pediatrics,7.0,0,0,0,0,0,1
+PAT-1797,50.0,Male,Neurology,2.0,0,0,0,3,0,1
+PAT-1798,61.0,Female,Pediatrics,18.0,1,0,0,1,1,1
+PAT-1799,51.0,Female,Dermatology,5.0,0,0,0,0,1,1
+PAT-1800,19.0,Female,Neurology,2.0,0,0,0,0,1,0
+PAT-1801,21.0,Female,Dermatology,16.0,0,0,1,1,0,1
+PAT-1802,5.0,Female,Dermatology,4.0,0,0,0,0,1,0
+PAT-1803,82.0,Male,Neurology,1.0,0,1,1,0,0,1
+PAT-1804,42.0,Female,Orthopedics,8.0,0,0,0,0,0,1
+PAT-1805,61.0,Female,General Medicine,8.0,1,1,0,0,1,0
+PAT-1806,22.0,Female,Cardiology,12.0,0,0,1,2,1,1
+PAT-1807,21.0,Female,Orthopedics,2.0,0,0,0,0,0,1
+PAT-1808,70.0,Female,Cardiology,5.0,0,0,0,0,0,0
+PAT-1809,1.0,Female,Cardiology,3.0,0,0,0,0,1,0
+PAT-1810,5.0,Female,Dermatology,0.0,0,0,0,1,0,1
+PAT-1811,12.0,Male,Neurology,20.0,0,0,0,0,0,1
+PAT-1812,46.0,Male,Neurology,13.0,1,0,0,0,1,1
+PAT-1813,34.0,Female,Cardiology,3.0,0,0,0,0,0,1
+PAT-1814,49.0,Female,General Medicine,9.0,0,0,0,0,0,0
+PAT-1815,78.0,Male,General Medicine,2.0,0,0,0,0,1,1
+PAT-1816,45.0,Male,Cardiology,22.0,0,0,0,0,1,1
+PAT-1817,27.0,Female,General Medicine,1.0,0,0,0,0,1,0
+PAT-1818,73.0,Male,General Medicine,0.0,1,1,1,0,1,1
+PAT-1819,26.0,Male,Dermatology,6.0,0,0,0,4,1,1
+PAT-1820,47.0,Male,Pediatrics,8.0,1,0,0,0,1,1
+PAT-1821,86.0,Male,Cardiology,8.0,1,1,0,0,1,0
+PAT-1822,56.0,Male,General Medicine,0.0,0,0,0,0,0,0
+PAT-1823,63.0,Male,Orthopedics,3.0,1,0,1,0,1,1
+PAT-1824,48.0,Male,General Medicine,6.0,0,0,0,0,1,0
+PAT-1825,61.0,Female,Dermatology,2.0,1,1,0,2,1,0
+PAT-1826,81.0,Female,Cardiology,20.0,0,0,0,1,1,1
+PAT-1827,26.0,Female,Cardiology,0.0,0,0,1,0,1,0
+PAT-1828,36.0,Male,Cardiology,6.0,0,0,0,0,1,1
+PAT-1829,1.0,Male,General Medicine,11.0,0,0,0,0,0,0
+PAT-1830,8.0,Female,Orthopedics,3.0,0,0,0,0,0,1
+PAT-1831,52.0,Male,Pediatrics,9.0,0,0,0,0,1,0
+PAT-1832,79.0,Female,Orthopedics,17.0,1,1,0,0,0,1
+PAT-1833,47.0,Female,General Medicine,2.0,0,0,0,3,0,0
+PAT-1834,56.0,Female,Orthopedics,24.0,0,1,0,0,0,1
+PAT-1835,86.0,Male,Orthopedics,8.0,1,0,0,0,0,0
+PAT-1836,14.0,Male,Neurology,3.0,0,0,0,2,1,1
+PAT-1837,28.0,Female,Cardiology,5.0,0,0,0,0,0,0
+PAT-1838,87.0,Male,Cardiology,3.0,0,1,0,0,0,0
+PAT-1839,78.0,Female,Orthopedics,12.0,0,0,0,0,0,1
+PAT-1840,88.0,Female,Orthopedics,15.0,1,0,0,0,1,0
+PAT-1841,2.0,Female,Cardiology,17.0,0,0,0,3,0,1
+PAT-1842,26.0,Male,Cardiology,42.0,0,0,0,2,1,1
+PAT-1843,14.0,Female,Cardiology,15.0,0,0,0,3,0,1
+PAT-1844,59.0,Female,Neurology,9.0,0,0,0,1,1,1
+PAT-1845,56.0,Male,Cardiology,4.0,0,0,0,0,1,0
+PAT-1846,7.0,Male,Dermatology,7.0,0,0,0,2,0,1
+PAT-1847,3.0,Female,Orthopedics,0.0,0,0,0,4,1,1
+PAT-1848,23.0,Male,Dermatology,13.0,0,0,0,0,1,0
+PAT-1849,18.0,Male,Neurology,5.0,0,0,0,0,1,0
+PAT-1850,38.0,Male,Cardiology,0.0,0,0,0,0,1,1
+PAT-1851,15.0,Female,Neurology,0.0,0,0,0,0,1,1
+PAT-1852,64.0,Female,General Medicine,4.0,0,0,0,0,1,0
+PAT-1853,89.0,Female,Dermatology,8.0,0,0,1,3,1,1
+PAT-1854,28.0,Male,Orthopedics,6.0,0,0,0,2,0,0
+PAT-1855,74.0,Male,General Medicine,9.0,0,0,0,0,0,0
+PAT-1856,39.0,Female,Orthopedics,6.0,0,0,0,0,1,1
+PAT-1857,57.0,Female,Dermatology,10.0,0,1,0,1,1,1
+PAT-1858,17.0,Male,General Medicine,2.0,0,0,0,0,1,0
+PAT-1859,86.0,Female,Orthopedics,1.0,0,0,0,0,1,1
+PAT-1860,44.0,Female,Pediatrics,9.0,0,1,0,1,1,0
+PAT-1861,25.0,Female,Neurology,6.0,0,0,0,2,1,0
+PAT-1862,17.0,Female,Cardiology,0.0,0,0,0,2,1,1
+PAT-1863,13.0,Female,General Medicine,4.0,0,0,0,0,1,1
+PAT-1864,84.0,Male,General Medicine,1.0,0,1,0,0,1,1
+PAT-1865,25.0,Female,Orthopedics,7.0,0,0,0,2,0,1
+PAT-1866,68.0,Female,Cardiology,5.0,1,0,0,0,0,0
+PAT-1867,10.0,Male,Dermatology,9.0,0,0,0,1,1,0
+PAT-1868,67.0,Female,General Medicine,16.0,0,1,0,0,1,1
+PAT-1869,18.0,Female,Pediatrics,3.0,0,0,0,0,0,0
+PAT-1870,86.0,Female,General Medicine,32.0,1,1,0,0,0,1
+PAT-1871,34.0,Female,General Medicine,7.0,0,0,0,0,1,0
+PAT-1872,8.0,Female,Cardiology,9.0,0,0,0,2,1,0
+PAT-1873,40.0,Female,Cardiology,11.0,0,0,0,0,1,0
+PAT-1874,83.0,Male,Pediatrics,10.0,0,0,0,2,1,1
+PAT-1875,42.0,Female,Dermatology,7.0,0,0,0,2,1,1
+PAT-1876,41.0,Male,Orthopedics,5.0,0,1,1,0,0,1
+PAT-1877,6.0,Male,Dermatology,0.0,0,0,0,1,1,0
+PAT-1878,52.0,Female,Neurology,0.0,0,0,0,0,1,1
+PAT-1879,26.0,Female,Orthopedics,4.0,0,0,0,1,0,1
+PAT-1880,64.0,Male,Neurology,4.0,1,0,0,0,0,1
+PAT-1881,59.0,Female,Orthopedics,4.0,1,0,1,0,0,0
+PAT-1882,56.0,Female,General Medicine,1.0,0,0,0,0,1,0
+PAT-1883,59.0,Female,Pediatrics,13.0,1,0,0,0,0,0
+PAT-1884,70.0,Male,General Medicine,19.0,1,0,0,2,1,1
+PAT-1885,33.0,Female,Orthopedics,27.0,0,0,1,0,1,0
+PAT-1886,53.0,Female,Pediatrics,6.0,0,1,0,0,1,1
+PAT-1887,22.0,Female,General Medicine,12.0,0,0,0,0,1,0
+PAT-1888,21.0,Male,General Medicine,19.0,0,0,0,1,0,1
+PAT-1889,70.0,Male,Dermatology,5.0,1,0,0,0,1,1
+PAT-1890,70.0,Male,Orthopedics,3.0,0,0,0,0,1,1
+PAT-1891,4.0,Male,General Medicine,27.0,0,0,0,0,0,1
+PAT-1892,75.0,Male,Pediatrics,7.0,1,0,0,0,1,1
+PAT-1893,62.0,Female,Orthopedics,6.0,1,0,0,1,1,1
+PAT-1894,62.0,Female,Orthopedics,1.0,0,0,0,1,0,1
+PAT-1895,24.0,Male,Dermatology,1.0,0,0,0,1,1,1
+PAT-1896,55.0,Male,Pediatrics,18.0,1,1,1,0,1,1
+PAT-1897,9.0,Male,Cardiology,9.0,0,0,0,2,1,1
+PAT-1898,3.0,Male,Neurology,3.0,0,0,0,0,1,0
+PAT-1899,31.0,Male,Neurology,2.0,0,0,0,2,0,1
+PAT-1900,40.0,Male,General Medicine,8.0,0,0,0,0,0,1
+PAT-1901,36.0,Female,General Medicine,8.0,0,0,0,0,1,0
+PAT-1902,24.0,Female,General Medicine,2.0,0,0,0,0,1,1
+PAT-1903,6.0,Male,Pediatrics,19.0,0,0,0,0,1,1
+PAT-1904,66.0,Male,Orthopedics,0.0,1,1,0,0,0,1
+PAT-1905,84.0,Female,Orthopedics,4.0,0,0,1,2,1,0
+PAT-1906,75.0,Male,Dermatology,11.0,1,1,1,0,0,0
+PAT-1907,4.0,Male,Pediatrics,3.0,0,0,0,4,0,1
+PAT-1908,79.0,Female,General Medicine,17.0,0,1,1,0,1,0
+PAT-1909,6.0,Male,Cardiology,13.0,0,0,0,0,0,0
+PAT-1910,51.0,Female,Cardiology,15.0,0,0,0,2,0,1
+PAT-1911,62.0,Female,Cardiology,1.0,1,0,0,0,0,0
+PAT-1912,57.0,Male,Orthopedics,1.0,1,0,0,0,0,1
+PAT-1913,66.0,Male,Neurology,3.0,0,0,0,2,1,1
+PAT-1914,79.0,Female,Cardiology,7.0,0,0,0,0,1,0
+PAT-1915,75.0,Male,Orthopedics,13.0,0,0,0,0,0,1
+PAT-1916,8.0,Male,Pediatrics,18.0,0,0,0,2,1,0
+PAT-1917,26.0,Female,Cardiology,12.0,0,0,0,0,1,1
+PAT-1918,51.0,Female,General Medicine,26.0,0,1,0,2,1,1
+PAT-1919,45.0,Male,Cardiology,13.0,0,1,0,0,0,1
+PAT-1920,44.0,Female,General Medicine,3.0,0,0,0,0,1,1
+PAT-1921,5.0,Male,Dermatology,3.0,0,0,0,0,1,0
+PAT-1922,70.0,Female,General Medicine,11.0,0,0,0,1,0,1
+PAT-1923,26.0,Female,Cardiology,2.0,0,0,0,0,1,0
+PAT-1924,68.0,Female,Orthopedics,0.0,0,1,0,1,1,1
+PAT-1925,19.0,Female,Dermatology,7.0,0,0,0,0,1,1
+PAT-1926,84.0,Female,General Medicine,17.0,1,0,0,0,0,1
+PAT-1927,20.0,Male,General Medicine,1.0,0,0,0,1,0,1
+PAT-1928,12.0,Female,General Medicine,15.0,0,0,0,0,0,1
+PAT-1929,47.0,Male,General Medicine,16.0,1,0,0,0,1,1
+PAT-1930,1.0,Male,General Medicine,6.0,0,0,0,0,0,1
+PAT-1931,14.0,Male,Orthopedics,0.0,0,0,0,0,1,1
+PAT-1932,64.0,Female,General Medicine,1.0,1,0,0,0,1,1
+PAT-1933,38.0,Female,General Medicine,12.0,0,0,1,0,0,1
+PAT-1934,37.0,Male,Neurology,12.0,0,0,0,0,0,0
+PAT-1935,11.0,Male,Cardiology,22.0,0,0,0,0,1,0
+PAT-1936,77.0,Female,Cardiology,8.0,1,0,0,0,1,1
+PAT-1937,3.0,Male,Cardiology,1.0,0,0,0,0,0,1
+PAT-1938,33.0,Male,Dermatology,1.0,0,0,1,3,1,1
+PAT-1939,6.0,Female,General Medicine,12.0,0,0,0,2,1,1
+PAT-1940,50.0,Female,Neurology,2.0,0,0,0,0,1,0
+PAT-1941,10.0,Female,Pediatrics,3.0,0,0,0,0,1,0
+PAT-1942,5.0,Male,General Medicine,6.0,0,0,0,3,0,0
+PAT-1943,23.0,Male,Dermatology,0.0,0,0,1,0,1,1
+PAT-1944,10.0,Female,General Medicine,2.0,0,0,0,0,1,0
+PAT-1945,44.0,Female,General Medicine,5.0,0,1,0,0,0,1
+PAT-1946,2.0,Female,Neurology,3.0,0,0,0,1,1,0
+PAT-1947,13.0,Female,Pediatrics,1.0,0,0,0,0,0,0
+PAT-1948,40.0,Male,Orthopedics,13.0,0,0,0,1,1,0
+PAT-1949,2.0,Female,General Medicine,16.0,0,0,0,1,1,1
+PAT-1950,84.0,Male,Cardiology,2.0,0,0,0,0,1,1
+PAT-1951,65.0,Male,Pediatrics,14.0,1,0,0,2,0,1
+PAT-1952,63.0,Female,Cardiology,4.0,1,0,0,0,1,1
+PAT-1953,73.0,Male,Cardiology,7.0,1,0,0,0,0,1
+PAT-1954,17.0,Male,General Medicine,19.0,0,0,0,0,1,1
+PAT-1955,9.0,Female,General Medicine,13.0,0,0,0,0,1,1
+PAT-1956,75.0,Female,Neurology,16.0,1,0,0,0,1,0
+PAT-1957,15.0,Female,Cardiology,1.0,0,0,0,0,0,1
+PAT-1958,24.0,Male,Dermatology,0.0,0,0,0,0,1,0
+PAT-1959,38.0,Female,Cardiology,22.0,0,0,0,0,0,1
+PAT-1960,35.0,Male,Pediatrics,4.0,0,0,0,0,1,0
+PAT-1961,49.0,Male,General Medicine,3.0,1,0,0,1,1,1
+PAT-1962,69.0,Female,Cardiology,12.0,0,0,0,0,1,0
+PAT-1963,62.0,Female,General Medicine,18.0,1,1,0,0,1,0
+PAT-1964,60.0,Female,Cardiology,19.0,0,1,1,0,1,1
+PAT-1965,50.0,Male,Orthopedics,3.0,1,1,0,0,0,1
+PAT-1966,78.0,Female,Dermatology,19.0,0,0,0,0,1,1
+PAT-1967,75.0,Female,Orthopedics,0.0,1,1,0,0,0,1
+PAT-1968,9.0,Female,General Medicine,0.0,0,0,0,0,1,0
+PAT-1969,34.0,Female,General Medicine,9.0,0,0,0,0,1,1
+PAT-1970,76.0,Male,General Medicine,0.0,0,0,0,3,1,0
+PAT-1971,35.0,Male,Orthopedics,3.0,0,0,0,3,0,1
+PAT-1972,1.0,Female,Pediatrics,11.0,0,0,0,0,1,1
+PAT-1973,40.0,Male,Dermatology,4.0,0,0,0,1,0,0
+PAT-1974,64.0,Male,General Medicine,1.0,0,0,0,0,0,1
+PAT-1975,22.0,Female,Orthopedics,,0,0,0,0,0,1
+PAT-1976,60.0,Female,Cardiology,6.0,1,0,0,1,1,1
+PAT-1977,64.0,Female,Orthopedics,6.0,0,0,0,0,0,0
+PAT-1978,72.0,Female,Orthopedics,15.0,0,0,0,0,0,1
+PAT-1979,11.0,Female,Pediatrics,13.0,0,0,0,0,0,0
+PAT-1980,14.0,Male,Orthopedics,6.0,0,0,0,0,0,1
+PAT-1981,60.0,Male,General Medicine,18.0,0,0,1,0,1,0
+PAT-1982,30.0,Male,Pediatrics,1.0,0,0,0,0,1,0
+PAT-1983,35.0,Male,General Medicine,2.0,0,0,0,0,0,1
+PAT-1984,85.0,Female,Pediatrics,17.0,1,0,1,0,1,0
+PAT-1985,37.0,Male,Cardiology,4.0,0,0,0,1,1,0
+PAT-1986,5.0,Female,Orthopedics,39.0,0,0,0,0,1,1
+PAT-1987,83.0,Male,Dermatology,6.0,1,1,0,1,1,1
+PAT-1988,78.0,Male,Neurology,15.0,1,1,0,0,0,1
+PAT-1989,26.0,Male,Neurology,5.0,0,0,0,1,1,0
+PAT-1990,62.0,Male,Orthopedics,5.0,0,1,0,1,0,1
+PAT-1991,4.0,Male,Pediatrics,4.0,0,0,0,0,0,1
+PAT-1992,89.0,Male,Orthopedics,12.0,0,1,0,0,1,1
+PAT-1993,42.0,Male,Neurology,7.0,0,0,0,0,1,1
+PAT-1994,89.0,Female,Cardiology,28.0,0,0,0,3,0,1
+PAT-1995,18.0,Male,Dermatology,2.0,0,0,0,0,1,0
+PAT-1996,40.0,Male,Dermatology,1.0,0,0,1,0,1,0
+PAT-1997,72.0,Female,Pediatrics,4.0,0,1,0,0,1,1
+PAT-1998,39.0,Male,General Medicine,9.0,0,0,0,4,1,1
+PAT-1999,14.0,Female,General Medicine,19.0,0,0,0,0,1,1
+PAT-2000,32.0,Female,Neurology,4.0,0,0,0,0,1,0
+PAT-2001,51.0,Male,General Medicine,10.0,1,0,0,0,0,1
+PAT-2002,38.0,Female,Neurology,4.0,0,0,0,3,0,1
+PAT-2003,23.0,Male,Cardiology,9.0,0,0,0,0,0,0
+PAT-2004,63.0,Female,Cardiology,21.0,1,0,0,0,1,1
+PAT-2005,15.0,Male,Dermatology,2.0,0,0,0,0,1,1
+PAT-2006,25.0,Female,Orthopedics,5.0,0,0,0,0,1,0
+PAT-2007,17.0,Male,Orthopedics,50.0,0,0,0,2,1,1
+PAT-2008,66.0,Female,Orthopedics,20.0,1,0,0,0,0,1
+PAT-2009,78.0,Female,Cardiology,8.0,1,1,0,0,0,1
+PAT-2010,,Male,Pediatrics,7.0,0,0,0,2,0,1
+PAT-2011,51.0,Male,General Medicine,3.0,1,1,0,3,1,1
+PAT-2012,39.0,Female,Dermatology,7.0,0,0,0,0,1,0
+PAT-2013,51.0,Female,Neurology,18.0,0,0,0,0,1,1
+PAT-2014,70.0,Male,Cardiology,11.0,0,0,0,1,1,0
+PAT-2015,6.0,Female,Pediatrics,3.0,0,0,0,0,1,1
+PAT-2016,67.0,Female,Orthopedics,2.0,1,0,0,3,1,1
+PAT-2017,7.0,Female,Cardiology,3.0,0,0,0,3,1,1
+PAT-2018,51.0,Male,Dermatology,1.0,1,0,0,0,1,1
+PAT-2019,72.0,Female,General Medicine,1.0,0,0,0,3,1,1
+PAT-2020,42.0,Male,General Medicine,5.0,0,0,0,0,1,1
+PAT-2021,64.0,Female,Orthopedics,1.0,0,0,0,0,1,0
+PAT-2022,15.0,Female,Orthopedics,1.0,0,0,0,0,1,1
+PAT-2023,,Male,Orthopedics,7.0,0,0,0,2,0,0
+PAT-2024,33.0,Female,Pediatrics,1.0,0,0,0,0,0,1
+PAT-2025,27.0,Male,Orthopedics,0.0,0,0,0,0,1,1
+PAT-2026,36.0,Female,Orthopedics,3.0,0,0,0,2,1,1
+PAT-2027,29.0,Female,General Medicine,2.0,0,0,0,0,0,1
+PAT-2028,38.0,Female,Cardiology,7.0,0,0,0,0,0,0
+PAT-2029,57.0,Male,General Medicine,1.0,0,0,0,2,0,1
+PAT-2030,27.0,Female,General Medicine,13.0,0,0,0,1,1,1
+PAT-2031,55.0,Male,Orthopedics,23.0,0,0,0,3,0,1
+PAT-2032,33.0,Male,General Medicine,13.0,0,0,0,3,0,1
+PAT-2033,68.0,Female,General Medicine,7.0,1,1,0,0,0,1
+PAT-2034,86.0,Male,General Medicine,19.0,0,0,0,0,0,1
+PAT-2035,66.0,Male,Dermatology,11.0,0,0,0,0,1,1
+PAT-2036,10.0,Female,Dermatology,0.0,0,0,0,0,0,1
+PAT-2037,5.0,Male,Orthopedics,5.0,0,0,0,0,1,1
+PAT-2038,74.0,Male,Dermatology,19.0,0,0,0,1,1,0
+PAT-2039,38.0,Female,Pediatrics,4.0,0,0,0,0,1,0
+PAT-2040,13.0,Male,Orthopedics,0.0,0,0,0,0,0,0
+PAT-2041,31.0,Female,General Medicine,,0,0,0,0,0,1
+PAT-2042,47.0,Female,Pediatrics,16.0,1,0,0,0,0,1
+PAT-2043,88.0,Female,Pediatrics,,0,0,0,0,0,0
+PAT-2044,52.0,Female,Orthopedics,7.0,1,1,0,0,1,0
+PAT-2045,56.0,Male,Pediatrics,2.0,0,0,0,0,0,1
+PAT-2046,15.0,Male,Orthopedics,12.0,0,0,0,0,0,0
+PAT-2047,29.0,Female,Pediatrics,3.0,0,0,0,1,1,1
+PAT-2048,8.0,Female,Dermatology,3.0,0,0,0,1,1,0
+PAT-2049,5.0,Female,Cardiology,18.0,0,0,0,0,0,1
+PAT-2050,29.0,Male,Pediatrics,6.0,0,0,0,1,0,1
+PAT-2051,47.0,Male,Cardiology,11.0,1,0,0,0,0,1
+PAT-2052,68.0,Male,Orthopedics,5.0,1,1,0,0,1,0
+PAT-2053,76.0,Female,Pediatrics,3.0,0,0,0,0,1,1
+PAT-2054,45.0,Male,General Medicine,9.0,0,0,0,0,1,0
+PAT-2055,2.0,Female,Orthopedics,1.0,0,0,0,1,1,0
+PAT-2056,27.0,Female,General Medicine,4.0,0,0,0,0,1,0
+PAT-2057,36.0,Male,Orthopedics,2.0,0,0,0,3,0,1
+PAT-2058,36.0,Female,Cardiology,11.0,0,0,0,0,1,0
+PAT-2059,26.0,Male,Pediatrics,28.0,0,0,0,0,1,0
+PAT-2060,43.0,Female,General Medicine,54.0,0,0,0,2,1,1
+PAT-2061,27.0,Female,Orthopedics,5.0,0,0,0,0,1,0
+PAT-2062,69.0,Female,General Medicine,2.0,0,0,0,0,1,0
+PAT-2063,20.0,Female,Neurology,5.0,0,0,0,0,1,1
+PAT-2064,11.0,Male,Dermatology,18.0,0,0,0,0,0,0
+PAT-2065,74.0,Male,Dermatology,2.0,0,0,0,0,1,1
+PAT-2066,38.0,Female,Pediatrics,30.0,0,0,0,0,0,1
+PAT-2067,6.0,Male,Pediatrics,4.0,0,0,0,0,1,1
+PAT-2068,72.0,Male,General Medicine,42.0,1,0,0,0,0,1
+PAT-2069,23.0,Male,Cardiology,18.0,0,0,0,0,1,0
+PAT-2070,47.0,Female,Cardiology,16.0,0,1,0,0,1,0
+PAT-2071,46.0,Male,Pediatrics,3.0,1,1,0,0,0,0
+PAT-2072,12.0,Female,Dermatology,0.0,0,0,0,0,1,0
+PAT-2073,13.0,Female,General Medicine,4.0,0,0,0,0,1,1
+PAT-2074,62.0,Male,Dermatology,3.0,0,0,0,0,1,1
+PAT-2075,82.0,Male,Pediatrics,0.0,0,1,0,0,0,0
+PAT-2076,89.0,Male,Orthopedics,7.0,0,1,0,0,1,0
+PAT-2077,60.0,Female,General Medicine,5.0,1,1,0,0,0,1
+PAT-2078,43.0,Male,General Medicine,10.0,0,0,0,0,0,0
+PAT-2079,76.0,Male,Orthopedics,9.0,0,1,0,0,0,0
+PAT-2080,68.0,Male,Orthopedics,1.0,0,1,1,0,1,0
+PAT-2081,5.0,Female,General Medicine,37.0,0,0,0,0,1,1
+PAT-2082,37.0,Male,Orthopedics,2.0,0,0,1,0,0,1
+PAT-2083,72.0,Female,Neurology,5.0,0,0,0,0,0,0
+PAT-2084,31.0,Female,Neurology,6.0,0,0,0,0,1,0
+PAT-2085,9.0,Male,Dermatology,16.0,0,0,0,0,1,1
+PAT-2086,51.0,Female,Cardiology,1.0,0,0,0,2,1,0
+PAT-2087,29.0,Male,Cardiology,5.0,0,0,1,0,0,0
+PAT-2088,78.0,Female,Pediatrics,9.0,0,1,0,1,1,1
+PAT-2089,40.0,Female,Cardiology,2.0,0,0,0,1,0,1
+PAT-2090,41.0,Female,General Medicine,9.0,0,0,0,0,1,1
+PAT-2091,86.0,Male,General Medicine,25.0,1,1,0,0,1,1
+PAT-2092,11.0,Male,Cardiology,59.0,0,0,0,0,1,1
+PAT-2093,23.0,Male,General Medicine,0.0,0,0,0,0,0,1
+PAT-2094,1.0,Male,Cardiology,2.0,0,0,0,0,0,0
+PAT-2095,46.0,Male,General Medicine,3.0,1,0,0,1,0,1
+PAT-2096,21.0,Male,General Medicine,5.0,0,0,0,1,0,1
+PAT-2097,36.0,Male,Orthopedics,2.0,0,0,0,0,0,0
+PAT-2098,54.0,Male,Orthopedics,2.0,1,0,0,0,1,1
+PAT-2099,87.0,Female,Orthopedics,30.0,1,1,0,0,0,1
+PAT-2100,57.0,Female,General Medicine,25.0,1,0,0,1,1,1
+PAT-2101,1.0,Male,General Medicine,0.0,0,0,0,1,0,0
+PAT-2102,63.0,Male,Orthopedics,4.0,1,0,0,4,0,1
+PAT-2103,54.0,Male,Orthopedics,5.0,0,0,0,0,1,1
+PAT-2104,55.0,Female,Orthopedics,2.0,0,0,0,0,1,1
+PAT-2105,40.0,Male,Cardiology,9.0,0,0,0,0,1,1
+PAT-2106,15.0,Female,Dermatology,10.0,0,0,0,0,0,1
+PAT-2107,21.0,Female,Cardiology,19.0,0,0,0,2,1,1
+PAT-2108,47.0,Female,Cardiology,13.0,1,0,0,4,1,1
+PAT-2109,73.0,Female,Orthopedics,7.0,0,0,0,0,0,0
+PAT-2110,53.0,Female,Orthopedics,10.0,1,0,0,0,1,1
+PAT-2111,9.0,Female,Cardiology,3.0,0,0,0,0,1,0
+PAT-2112,74.0,Female,Cardiology,8.0,1,0,0,1,0,0
+PAT-2113,52.0,Female,Pediatrics,6.0,1,0,0,0,1,0
+PAT-2114,57.0,Female,General Medicine,1.0,1,1,1,0,1,1
+PAT-2115,26.0,Female,General Medicine,2.0,0,0,0,0,0,0
+PAT-2116,41.0,Female,Cardiology,3.0,0,0,1,0,1,0
+PAT-2117,35.0,Male,Neurology,25.0,0,0,0,3,0,0
+PAT-2118,63.0,Male,General Medicine,2.0,0,0,0,0,1,0
+PAT-2119,25.0,Male,Dermatology,3.0,0,0,0,0,1,1
+PAT-2120,75.0,Male,Orthopedics,4.0,0,1,0,0,0,0
+PAT-2121,38.0,Male,Dermatology,10.0,0,0,0,0,0,0
+PAT-2122,2.0,Male,Dermatology,1.0,0,0,0,0,0,0
+PAT-2123,7.0,Female,Cardiology,30.0,0,0,0,0,1,0
+PAT-2124,82.0,Male,General Medicine,20.0,0,0,0,0,1,0
+PAT-2125,34.0,Female,General Medicine,8.0,0,0,0,1,0,0
+PAT-2126,17.0,Male,General Medicine,11.0,0,0,0,0,0,0
+PAT-2127,43.0,Male,Pediatrics,0.0,0,0,0,0,0,0
+PAT-2128,59.0,Female,General Medicine,4.0,0,1,0,0,0,1
+PAT-2129,51.0,Female,Cardiology,15.0,1,0,0,0,0,1
+PAT-2130,54.0,Male,Cardiology,0.0,1,0,0,0,1,0
+PAT-2131,24.0,Female,Dermatology,3.0,0,0,0,1,1,1
+PAT-2132,25.0,Female,General Medicine,8.0,0,0,0,0,1,1
+PAT-2133,71.0,Male,General Medicine,2.0,0,0,0,0,1,0
+PAT-2134,52.0,Male,General Medicine,27.0,0,1,0,0,1,1
+PAT-2135,70.0,Female,Dermatology,1.0,1,0,0,0,1,1
+PAT-2136,88.0,Female,Orthopedics,15.0,0,1,0,0,1,0
+PAT-2137,33.0,Female,General Medicine,7.0,0,0,0,0,0,0
+PAT-2138,49.0,Female,General Medicine,13.0,1,1,0,0,0,1
+PAT-2139,29.0,Male,General Medicine,3.0,0,0,0,0,0,1
+PAT-2140,63.0,Male,General Medicine,7.0,0,0,0,0,1,0
+PAT-2141,22.0,Male,Dermatology,19.0,0,0,0,0,1,0
+PAT-2142,26.0,Female,Pediatrics,6.0,0,0,0,0,0,1
+PAT-2143,28.0,Female,Cardiology,4.0,0,0,0,0,1,1
+PAT-2144,85.0,Female,Neurology,7.0,0,0,0,0,1,1
+PAT-2145,49.0,Male,General Medicine,12.0,1,0,0,3,0,1
+PAT-2146,71.0,Male,Pediatrics,5.0,0,1,0,0,0,1
+PAT-2147,81.0,Female,Neurology,27.0,0,0,0,0,0,1
+PAT-2148,84.0,Female,Cardiology,3.0,0,0,0,0,0,1
+PAT-2149,49.0,Female,Pediatrics,6.0,1,0,0,4,1,0
+PAT-2150,20.0,Male,General Medicine,14.0,0,0,0,4,1,1
+PAT-2151,86.0,Female,General Medicine,11.0,0,1,0,0,1,0
+PAT-2152,63.0,Male,General Medicine,19.0,1,1,0,0,1,0
+PAT-2153,61.0,Female,Cardiology,57.0,0,0,0,2,1,1
+PAT-2154,49.0,Male,Pediatrics,5.0,1,1,0,0,1,1
+PAT-2155,71.0,Female,Dermatology,1.0,1,1,1,0,1,0
+PAT-2156,1.0,Male,Orthopedics,0.0,0,0,0,1,1,1
+PAT-2157,13.0,Female,Neurology,12.0,0,0,0,0,1,0
+PAT-2158,87.0,Female,Neurology,20.0,1,1,0,0,0,1
+PAT-2159,51.0,Male,General Medicine,2.0,0,0,1,1,1,1
+PAT-2160,56.0,Male,Cardiology,1.0,0,0,0,0,0,0
+PAT-2161,83.0,Male,General Medicine,0.0,1,0,0,0,1,0
+PAT-2162,62.0,Male,Pediatrics,17.0,0,1,0,0,1,0
+PAT-2163,32.0,Female,Dermatology,3.0,0,0,0,0,0,1
+PAT-2164,30.0,Male,General Medicine,5.0,0,0,0,0,1,1
+PAT-2165,29.0,Female,Pediatrics,6.0,0,0,1,0,0,0
+PAT-2166,49.0,Female,Orthopedics,,0,0,0,0,0,1
+PAT-2167,45.0,Female,Orthopedics,10.0,0,0,0,2,0,1
+PAT-2168,30.0,Male,Cardiology,9.0,0,0,0,0,1,1
+PAT-2169,16.0,Male,Cardiology,1.0,0,0,0,1,1,1
+PAT-2170,40.0,Female,General Medicine,7.0,0,0,0,1,1,0
+PAT-2171,19.0,Female,General Medicine,12.0,0,0,0,0,1,0
+PAT-2172,18.0,Male,General Medicine,36.0,0,0,0,0,0,1
+PAT-2173,1.0,Male,Orthopedics,2.0,0,0,0,2,0,1
+PAT-2174,78.0,Female,General Medicine,0.0,1,1,0,0,0,0
+PAT-2175,47.0,Female,Neurology,0.0,1,1,0,0,1,0
+PAT-2176,,Male,Orthopedics,4.0,1,1,1,0,1,0
+PAT-2177,38.0,Male,Pediatrics,17.0,0,0,0,1,0,1
+PAT-2178,51.0,Female,Cardiology,0.0,1,1,0,0,0,1
+PAT-2179,63.0,Male,Orthopedics,6.0,1,1,0,0,0,0
+PAT-2180,4.0,Male,Dermatology,3.0,0,0,0,0,1,1
+PAT-2181,1.0,Female,General Medicine,0.0,0,0,0,2,0,1
+PAT-2182,8.0,Female,General Medicine,5.0,0,0,0,0,0,0
+PAT-2183,29.0,Male,Pediatrics,2.0,0,0,0,0,0,0
+PAT-2184,55.0,Female,General Medicine,4.0,0,1,0,0,1,0
+PAT-2185,3.0,Female,General Medicine,12.0,0,0,0,0,1,1
+PAT-2186,32.0,Female,Cardiology,7.0,0,0,1,0,1,0
+PAT-2187,10.0,Female,General Medicine,1.0,0,0,0,0,1,0
+PAT-2188,74.0,Female,Orthopedics,32.0,1,0,1,0,1,0
+PAT-2189,83.0,Male,General Medicine,10.0,1,0,0,2,1,1
+PAT-2190,34.0,Female,Neurology,14.0,0,0,0,0,0,1
+PAT-2191,87.0,Female,Pediatrics,0.0,1,1,1,0,1,1
+PAT-2192,55.0,Female,Pediatrics,0.0,0,0,0,2,1,1
+PAT-2193,32.0,Female,Orthopedics,0.0,0,0,0,0,0,1
+PAT-2194,50.0,Male,Neurology,2.0,1,0,0,0,1,1
+PAT-2195,7.0,Female,General Medicine,5.0,0,0,0,1,0,1
+PAT-2196,8.0,Female,Neurology,27.0,0,0,0,0,0,0
+PAT-2197,65.0,Male,Pediatrics,6.0,1,1,0,0,0,0
+PAT-2198,57.0,Female,Pediatrics,3.0,1,1,0,0,0,1
+PAT-2199,67.0,Male,Orthopedics,8.0,0,0,0,0,1,1
+PAT-2200,88.0,Male,General Medicine,1.0,0,0,0,0,1,1
+PAT-2201,87.0,Male,Cardiology,9.0,1,1,0,1,1,1
+PAT-2202,59.0,Male,Pediatrics,8.0,0,1,0,0,1,1
+PAT-2203,72.0,Male,General Medicine,15.0,0,0,0,0,0,1
+PAT-2204,54.0,Female,Pediatrics,43.0,0,0,0,0,1,0
+PAT-2205,67.0,Male,General Medicine,2.0,0,0,0,3,1,0
+PAT-2206,51.0,Female,General Medicine,7.0,0,0,0,4,0,1
+PAT-2207,8.0,Female,General Medicine,23.0,0,0,0,0,1,0
+PAT-2208,34.0,Female,General Medicine,15.0,0,0,0,1,1,0
+PAT-2209,35.0,Female,Orthopedics,6.0,0,0,0,1,1,0
+PAT-2210,88.0,Male,General Medicine,29.0,1,0,1,0,0,1
+PAT-2211,78.0,Female,Dermatology,0.0,0,0,0,0,0,0
+PAT-2212,32.0,Male,Orthopedics,26.0,0,0,0,0,1,0
+PAT-2213,46.0,Female,General Medicine,0.0,0,0,0,1,1,1
+PAT-2214,16.0,Female,Pediatrics,7.0,0,0,0,1,0,0
+PAT-2215,68.0,Male,Neurology,22.0,0,1,1,0,1,0
+PAT-2216,37.0,Male,Pediatrics,3.0,0,0,0,0,0,0
+PAT-2217,54.0,Female,General Medicine,6.0,0,1,0,0,0,1
+PAT-2218,85.0,Female,Neurology,3.0,0,1,0,1,1,1
+PAT-2219,14.0,Female,Pediatrics,30.0,0,0,0,2,1,0
+PAT-2220,55.0,Male,General Medicine,17.0,0,0,0,0,0,0
+PAT-2221,48.0,Female,General Medicine,12.0,0,0,0,0,0,1
+PAT-2222,82.0,Male,Orthopedics,8.0,0,0,0,0,1,0
+PAT-2223,7.0,Female,General Medicine,17.0,0,0,0,1,1,0
+PAT-2224,74.0,Female,Neurology,4.0,1,0,0,0,0,1
+PAT-2225,7.0,Female,Cardiology,5.0,0,0,0,0,0,0
+PAT-2226,33.0,Female,Dermatology,13.0,0,0,0,1,1,1
+PAT-2227,23.0,Male,Orthopedics,4.0,0,0,0,0,1,0
+PAT-2228,85.0,Female,General Medicine,0.0,1,1,1,1,0,1
+PAT-2229,19.0,Female,General Medicine,0.0,0,0,0,0,1,0
+PAT-2230,19.0,Male,Orthopedics,1.0,0,0,0,0,0,0
+PAT-2231,36.0,Female,Pediatrics,20.0,0,0,0,2,1,1
+PAT-2232,29.0,Male,Pediatrics,6.0,0,0,0,0,1,0
+PAT-2233,60.0,Female,General Medicine,12.0,1,0,1,0,1,0
+PAT-2234,82.0,Female,General Medicine,4.0,1,1,0,0,0,0
+PAT-2235,2.0,Female,General Medicine,2.0,0,0,0,0,1,1
+PAT-2236,1.0,Male,Orthopedics,4.0,0,0,0,0,1,1
+PAT-2237,47.0,Female,General Medicine,15.0,1,0,0,1,1,1
+PAT-2238,69.0,Female,Cardiology,9.0,0,0,0,2,1,0
+PAT-2239,20.0,Female,Orthopedics,27.0,0,0,0,2,0,1
+PAT-2240,11.0,Male,Dermatology,11.0,0,0,0,0,1,0
+PAT-2241,2.0,Male,Cardiology,8.0,0,0,0,1,1,0
+PAT-2242,67.0,Female,General Medicine,9.0,0,1,0,1,1,0
+PAT-2243,87.0,Male,Orthopedics,28.0,1,0,0,0,1,0
+PAT-2244,12.0,Female,Orthopedics,15.0,0,0,0,0,1,0
+PAT-2245,20.0,Female,Cardiology,0.0,0,0,0,0,0,0
+PAT-2246,5.0,Female,Dermatology,7.0,0,0,0,1,1,1
+PAT-2247,37.0,Female,Neurology,11.0,0,0,1,0,1,0
+PAT-2248,38.0,Female,General Medicine,13.0,0,0,1,1,1,0
+PAT-2249,9.0,Male,General Medicine,2.0,0,0,0,0,1,0
+PAT-2250,53.0,Male,Orthopedics,20.0,1,0,0,3,1,1
+PAT-2251,44.0,Male,Pediatrics,31.0,0,0,0,0,0,1
+PAT-2252,86.0,Male,General Medicine,2.0,0,0,0,0,0,1
+PAT-2253,24.0,Female,Pediatrics,21.0,0,0,0,0,0,0
+PAT-2254,81.0,Female,Orthopedics,1.0,0,0,0,0,1,1
+PAT-2255,74.0,Female,General Medicine,0.0,0,0,0,1,0,1
+PAT-2256,30.0,Female,Pediatrics,1.0,0,0,0,3,0,1
+PAT-2257,59.0,Female,Dermatology,0.0,0,0,0,0,1,1
+PAT-2258,87.0,Female,General Medicine,18.0,1,0,0,0,1,1
+PAT-2259,81.0,Female,Cardiology,0.0,1,0,0,0,1,0
+PAT-2260,81.0,Female,Cardiology,3.0,0,0,0,0,1,0
+PAT-2261,14.0,Male,Neurology,1.0,0,0,0,0,1,0
+PAT-2262,9.0,Male,Dermatology,3.0,0,0,0,1,0,0
+PAT-2263,40.0,Male,Cardiology,0.0,0,0,0,3,1,1
+PAT-2264,66.0,Female,Pediatrics,11.0,0,0,0,0,0,1
+PAT-2265,25.0,Female,Orthopedics,1.0,0,0,0,0,1,0
+PAT-2266,73.0,Male,Orthopedics,19.0,1,0,1,0,1,0
+PAT-2267,22.0,Female,General Medicine,16.0,0,0,0,0,1,1
+PAT-2268,4.0,Female,General Medicine,0.0,0,0,0,0,1,0
+PAT-2269,26.0,Male,General Medicine,22.0,0,0,0,0,0,0
+PAT-2270,58.0,Male,Orthopedics,0.0,0,0,0,0,1,1
+PAT-2271,29.0,Female,General Medicine,2.0,0,0,0,0,0,1
+PAT-2272,87.0,Male,Dermatology,0.0,1,0,0,0,1,0
+PAT-2273,37.0,Male,General Medicine,4.0,0,0,0,0,1,1
+PAT-2274,75.0,Female,General Medicine,7.0,0,1,0,0,1,1
+PAT-2275,70.0,Female,Orthopedics,15.0,1,1,0,2,1,0
+PAT-2276,18.0,Female,Pediatrics,4.0,0,0,0,1,1,1
+PAT-2277,85.0,Male,General Medicine,12.0,0,1,0,2,0,1
+PAT-2278,42.0,Male,Cardiology,2.0,0,0,0,0,0,1
+PAT-2279,41.0,Female,Dermatology,13.0,0,0,0,0,1,0
+PAT-2280,38.0,Female,General Medicine,2.0,0,0,0,0,1,0
+PAT-2281,34.0,Female,Cardiology,1.0,0,0,0,0,1,1
+PAT-2282,17.0,Male,Neurology,2.0,0,0,0,1,1,1
+PAT-2283,37.0,Female,General Medicine,2.0,0,0,0,0,0,0
+PAT-2284,25.0,Male,Cardiology,7.0,0,0,0,0,0,0
+PAT-2285,76.0,Male,Cardiology,18.0,1,0,0,0,0,0
+PAT-2286,87.0,Male,Cardiology,0.0,0,1,0,0,1,1
+PAT-2287,86.0,Male,General Medicine,12.0,0,0,0,4,0,1
+PAT-2288,85.0,Female,General Medicine,10.0,0,0,0,0,0,0
+PAT-2289,27.0,Female,Cardiology,20.0,0,0,0,0,1,0
+PAT-2290,57.0,Male,General Medicine,2.0,0,0,0,0,1,0
+PAT-2291,31.0,Female,Pediatrics,5.0,0,0,0,4,1,1
+PAT-2292,6.0,Male,Cardiology,26.0,0,0,0,0,1,0
+PAT-2293,40.0,Female,Cardiology,10.0,0,0,0,0,1,1
+PAT-2294,12.0,Female,Neurology,4.0,0,0,0,0,1,1
+PAT-2295,53.0,Male,Orthopedics,1.0,1,0,0,1,1,0
+PAT-2296,71.0,Female,General Medicine,3.0,0,1,0,0,0,0
+PAT-2297,10.0,Male,Dermatology,8.0,0,0,0,0,0,1
+PAT-2298,45.0,Male,General Medicine,12.0,0,0,0,2,0,1
+PAT-2299,17.0,Male,General Medicine,1.0,0,0,0,4,0,1
+PAT-2300,26.0,Female,Pediatrics,9.0,0,0,0,0,1,0
+PAT-2301,85.0,Female,Orthopedics,7.0,0,0,0,1,0,1
+PAT-2302,62.0,Male,Cardiology,7.0,0,0,0,0,1,1
+PAT-2303,46.0,Female,General Medicine,11.0,0,0,0,1,0,1
+PAT-2304,64.0,Female,Orthopedics,18.0,1,0,0,0,1,1
+PAT-2305,2.0,Female,General Medicine,3.0,0,0,0,0,1,1
+PAT-2306,54.0,Female,Dermatology,21.0,0,1,0,2,1,1
+PAT-2307,65.0,Female,General Medicine,1.0,1,1,0,1,1,0
+PAT-2308,51.0,Male,Neurology,1.0,0,0,0,0,0,1
+PAT-2309,53.0,Male,Orthopedics,3.0,1,0,1,1,1,0
+PAT-2310,36.0,Female,Neurology,1.0,0,0,0,0,0,1
+PAT-2311,26.0,Male,Pediatrics,2.0,0,0,0,1,1,0
+PAT-2312,29.0,Female,Pediatrics,1.0,0,0,0,0,1,1
+PAT-2313,21.0,Female,Cardiology,17.0,0,0,0,0,0,1
+PAT-2314,11.0,Male,General Medicine,1.0,0,0,0,0,1,0
+PAT-2315,40.0,Male,General Medicine,13.0,0,0,0,0,0,1
+PAT-2316,11.0,Male,Neurology,0.0,0,0,0,0,1,0
+PAT-2317,36.0,Female,Neurology,29.0,0,0,0,0,1,1
+PAT-2318,59.0,Male,Cardiology,12.0,0,0,0,0,1,0
+PAT-2319,39.0,Male,General Medicine,0.0,0,0,0,1,1,1
+PAT-2320,54.0,Male,Cardiology,14.0,1,0,1,0,1,1
+PAT-2321,55.0,Male,Orthopedics,7.0,0,0,0,0,1,0
+PAT-2322,24.0,Female,Cardiology,15.0,0,0,0,0,0,0
+PAT-2323,22.0,Male,Pediatrics,7.0,0,0,0,0,1,1
+PAT-2324,69.0,Female,Dermatology,10.0,0,1,0,0,1,1
+PAT-2325,56.0,Male,General Medicine,15.0,1,0,0,0,0,1
+PAT-2326,33.0,Male,Cardiology,5.0,0,0,0,0,0,1
+PAT-2327,36.0,Female,Cardiology,0.0,0,0,0,0,0,1
+PAT-2328,20.0,Male,Cardiology,18.0,0,0,0,0,1,1
+PAT-2329,83.0,Female,General Medicine,4.0,0,0,0,0,1,1
+PAT-2330,81.0,Female,General Medicine,6.0,0,1,0,1,1,1
+PAT-2331,62.0,Male,Neurology,0.0,1,1,0,0,1,1
+PAT-2332,73.0,Female,Cardiology,6.0,1,0,0,3,0,1
+PAT-2333,26.0,Male,Cardiology,43.0,0,0,0,0,0,1
+PAT-2334,66.0,Male,Dermatology,3.0,1,1,0,2,0,1
+PAT-2335,73.0,Female,Pediatrics,5.0,0,0,0,0,1,1
+PAT-2336,73.0,Female,General Medicine,11.0,1,0,0,0,0,1
+PAT-2337,40.0,Female,Orthopedics,16.0,0,0,0,2,1,1
+PAT-2338,17.0,Female,Cardiology,5.0,0,0,0,0,1,0
+PAT-2339,1.0,Female,Pediatrics,3.0,0,0,0,0,1,0
+PAT-2340,89.0,Male,Pediatrics,27.0,0,1,1,0,1,1
+PAT-2341,61.0,Male,Pediatrics,11.0,1,0,0,3,1,0
+PAT-2342,43.0,Female,Cardiology,1.0,0,1,1,0,0,1
+PAT-2343,42.0,Male,Neurology,0.0,0,0,0,0,0,1
+PAT-2344,25.0,Female,General Medicine,6.0,0,0,0,1,1,0
+PAT-2345,39.0,Female,General Medicine,2.0,0,0,0,0,1,0
+PAT-2346,35.0,Male,Cardiology,2.0,0,0,0,1,1,0
+PAT-2347,3.0,Female,General Medicine,21.0,0,0,0,0,0,1
+PAT-2348,44.0,Female,General Medicine,0.0,0,1,0,1,1,1
+PAT-2349,51.0,Male,Neurology,12.0,1,0,0,0,0,1
+PAT-2350,12.0,Female,Dermatology,3.0,0,0,0,0,0,0
+PAT-2351,19.0,Female,Cardiology,14.0,0,0,0,0,0,1
+PAT-2352,44.0,Male,General Medicine,12.0,0,0,0,0,1,0
+PAT-2353,59.0,Female,General Medicine,0.0,0,0,0,0,0,0
+PAT-2354,49.0,Female,General Medicine,7.0,0,0,0,0,0,1
+PAT-2355,61.0,Male,General Medicine,1.0,1,1,0,0,1,0
+PAT-2356,17.0,Female,Dermatology,20.0,0,0,0,0,1,0
+PAT-2357,74.0,Male,General Medicine,20.0,1,1,0,0,1,1
+PAT-2358,57.0,Female,Cardiology,5.0,0,0,0,0,1,0
+PAT-2359,55.0,Female,General Medicine,5.0,1,0,0,0,1,1
+PAT-2360,47.0,Male,Neurology,3.0,0,0,0,0,0,1
+PAT-2361,12.0,Male,Pediatrics,12.0,0,0,0,0,0,0
+PAT-2362,62.0,Female,Dermatology,4.0,0,0,1,0,1,0
+PAT-2363,,Female,Pediatrics,3.0,1,0,0,3,0,0
+PAT-2364,88.0,Female,Cardiology,5.0,0,1,0,0,1,0
+PAT-2365,83.0,Male,General Medicine,0.0,0,0,0,0,1,0
+PAT-2366,8.0,Female,Pediatrics,13.0,0,0,0,0,1,0
+PAT-2367,21.0,Female,Cardiology,0.0,0,0,0,1,1,1
+PAT-2368,81.0,Female,Orthopedics,10.0,1,1,0,0,1,0
+PAT-2369,87.0,Male,General Medicine,2.0,1,1,0,1,0,0
+PAT-2370,80.0,Female,General Medicine,2.0,0,1,0,0,1,1
+PAT-2371,70.0,Female,Orthopedics,10.0,0,1,0,1,0,1
+PAT-2372,72.0,Male,Orthopedics,49.0,0,0,0,0,1,1
+PAT-2373,25.0,Female,Pediatrics,15.0,0,0,0,0,1,0
+PAT-2374,82.0,Male,General Medicine,2.0,1,0,0,0,0,1
+PAT-2375,89.0,Female,Orthopedics,1.0,1,0,0,4,1,0
+PAT-2376,12.0,Female,General Medicine,20.0,0,0,0,1,0,1
+PAT-2377,15.0,Male,General Medicine,5.0,0,0,0,0,0,1
+PAT-2378,59.0,Female,Cardiology,1.0,0,0,0,0,1,0
+PAT-2379,26.0,Female,General Medicine,19.0,0,0,0,0,0,1
+PAT-2380,26.0,Male,General Medicine,16.0,0,0,0,0,0,1
+PAT-2381,47.0,Female,Cardiology,41.0,1,0,0,0,1,1
+PAT-2382,32.0,Female,General Medicine,24.0,0,0,0,0,1,0
+PAT-2383,10.0,Female,General Medicine,19.0,0,0,0,2,0,0
+PAT-2384,16.0,Male,General Medicine,0.0,0,0,0,0,0,0
+PAT-2385,71.0,Female,General Medicine,1.0,1,0,0,0,1,0
+PAT-2386,17.0,Female,General Medicine,8.0,0,0,0,0,0,1
+PAT-2387,23.0,Male,Orthopedics,7.0,0,0,0,3,0,1
+PAT-2388,26.0,Female,General Medicine,6.0,0,0,1,1,1,1
+PAT-2389,85.0,Female,General Medicine,5.0,0,0,0,0,1,1
+PAT-2390,86.0,Female,Cardiology,5.0,1,0,0,3,1,1
+PAT-2391,7.0,Male,Orthopedics,8.0,0,0,0,1,0,1
+PAT-2392,14.0,Female,Neurology,0.0,0,0,0,0,1,0
+PAT-2393,79.0,Female,Pediatrics,3.0,0,1,0,0,1,1
+PAT-2394,7.0,Male,Pediatrics,7.0,0,0,0,3,0,1
+PAT-2395,9.0,Female,Cardiology,12.0,0,0,0,0,0,0
+PAT-2396,48.0,Female,Pediatrics,1.0,0,1,0,0,1,0
+PAT-2397,72.0,Female,Orthopedics,7.0,0,1,0,0,1,0
+PAT-2398,59.0,Male,General Medicine,12.0,1,0,0,0,1,0
+PAT-2399,87.0,Female,General Medicine,5.0,0,0,0,4,1,1
+PAT-2400,82.0,Female,General Medicine,0.0,1,0,0,0,1,1
+PAT-2401,39.0,Female,Dermatology,5.0,0,0,0,0,1,1
+PAT-2402,18.0,Female,Orthopedics,3.0,0,0,0,2,0,1
+PAT-2403,59.0,Female,Pediatrics,26.0,1,0,0,0,0,0
+PAT-2404,17.0,Male,Cardiology,1.0,0,0,0,0,1,0
+PAT-2405,14.0,Male,Cardiology,10.0,0,0,0,3,1,0
+PAT-2406,31.0,Female,General Medicine,0.0,0,0,0,0,1,1
+PAT-2407,24.0,Male,General Medicine,5.0,0,0,1,0,1,0
+PAT-2408,60.0,Male,Neurology,8.0,1,0,0,0,1,1
+PAT-2409,45.0,Male,Orthopedics,3.0,0,0,0,0,0,0
+PAT-2410,3.0,Male,Cardiology,6.0,0,0,0,3,1,1
+PAT-2411,37.0,Male,Neurology,1.0,0,0,0,0,1,1
+PAT-2412,43.0,Female,General Medicine,3.0,0,1,1,0,0,1
+PAT-2413,40.0,Male,Dermatology,9.0,0,0,0,0,0,0
+PAT-2414,55.0,Female,Cardiology,3.0,1,0,0,0,1,1
+PAT-2415,87.0,Female,Cardiology,23.0,0,0,0,1,1,1
+PAT-2416,39.0,Female,Cardiology,9.0,0,0,0,1,0,0
+PAT-2417,15.0,Male,General Medicine,5.0,0,0,0,3,0,0
+PAT-2418,4.0,Female,General Medicine,0.0,0,0,0,0,1,1
+PAT-2419,86.0,Female,Orthopedics,6.0,0,0,0,1,1,0
+PAT-2420,25.0,Female,Neurology,14.0,0,0,0,0,1,1
+PAT-2421,13.0,Female,Pediatrics,3.0,0,0,0,1,1,1
+PAT-2422,82.0,Female,General Medicine,16.0,0,1,1,1,1,1
+PAT-2423,33.0,Male,Orthopedics,2.0,0,0,1,0,0,1
+PAT-2424,16.0,Female,General Medicine,17.0,0,0,0,0,1,1
+PAT-2425,42.0,Female,General Medicine,0.0,0,0,0,0,0,0
+PAT-2426,66.0,Female,Orthopedics,20.0,0,0,0,0,1,1
+PAT-2427,55.0,Female,Orthopedics,6.0,1,0,0,3,0,1
+PAT-2428,42.0,Male,General Medicine,3.0,0,0,0,0,1,0
+PAT-2429,34.0,Female,General Medicine,3.0,0,0,0,0,0,1
+PAT-2430,30.0,Male,Dermatology,5.0,0,0,0,0,1,1
+PAT-2431,13.0,Male,General Medicine,60.0,0,0,0,1,0,1
+PAT-2432,13.0,Male,Cardiology,2.0,0,0,0,0,0,0
+PAT-2433,18.0,Male,Orthopedics,1.0,0,0,0,0,0,0
+PAT-2434,32.0,Female,General Medicine,8.0,0,0,0,0,1,0
+PAT-2435,39.0,Male,General Medicine,6.0,0,0,0,0,0,1
+PAT-2436,46.0,Male,Cardiology,7.0,1,0,0,0,1,0
+PAT-2437,29.0,Female,Pediatrics,10.0,0,0,0,1,1,1
+PAT-2438,62.0,Female,Orthopedics,3.0,1,0,0,0,1,0
+PAT-2439,62.0,Female,Orthopedics,24.0,0,0,0,0,1,0
+PAT-2440,57.0,Female,Dermatology,5.0,0,1,1,0,1,1
+PAT-2441,16.0,Female,Pediatrics,1.0,0,0,0,0,0,1
+PAT-2442,56.0,Male,Cardiology,13.0,0,0,0,0,0,0
+PAT-2443,10.0,Male,Cardiology,10.0,0,0,0,0,1,1
+PAT-2444,30.0,Female,Orthopedics,3.0,0,0,0,0,0,1
+PAT-2445,25.0,Male,Orthopedics,9.0,0,0,0,0,1,0
+PAT-2446,84.0,Female,Orthopedics,2.0,0,0,1,0,0,0
+PAT-2447,5.0,Male,Orthopedics,5.0,0,0,0,2,1,1
+PAT-2448,65.0,Male,General Medicine,22.0,1,0,0,0,0,1
+PAT-2449,49.0,Female,Cardiology,1.0,0,0,0,1,1,0
+PAT-2450,3.0,Female,General Medicine,4.0,0,0,0,1,1,0
+PAT-2451,45.0,Female,General Medicine,17.0,0,1,0,0,0,0
+PAT-2452,14.0,Female,General Medicine,34.0,0,0,0,1,0,0
+PAT-2453,30.0,Male,Orthopedics,6.0,0,0,0,0,0,0
+PAT-2454,68.0,Male,Orthopedics,7.0,0,0,0,0,1,1
+PAT-2455,18.0,Female,General Medicine,,0,0,0,0,0,1
+PAT-2456,62.0,Female,Cardiology,26.0,0,1,0,0,0,1
+PAT-2457,37.0,Male,Cardiology,19.0,0,0,0,0,1,1
+PAT-2458,25.0,Female,General Medicine,1.0,0,0,0,0,1,1
+PAT-2459,,Male,Orthopedics,5.0,1,0,0,0,0,0
+PAT-2460,65.0,Female,Pediatrics,6.0,1,0,0,0,0,0
+PAT-2461,53.0,Male,Pediatrics,15.0,1,0,0,0,1,0
+PAT-2462,79.0,Female,Orthopedics,9.0,0,0,0,0,1,1
+PAT-2463,73.0,Female,Orthopedics,10.0,0,1,0,0,0,1
+PAT-2464,15.0,Male,General Medicine,60.0,0,0,0,0,1,1
+PAT-2465,,Female,General Medicine,0.0,1,0,0,0,0,0
+PAT-2466,88.0,Male,General Medicine,2.0,1,0,0,0,0,1
+PAT-2467,68.0,Male,Dermatology,5.0,0,1,0,2,1,1
+PAT-2468,12.0,Male,General Medicine,4.0,0,0,0,1,0,1
+PAT-2469,59.0,Male,General Medicine,0.0,1,0,0,0,1,0
+PAT-2470,37.0,Male,Neurology,0.0,0,0,0,1,1,0
+PAT-2471,61.0,Female,Dermatology,11.0,0,1,0,0,1,0
+PAT-2472,43.0,Female,Pediatrics,21.0,0,1,0,0,0,1
+PAT-2473,70.0,Female,General Medicine,7.0,0,0,0,2,0,1
+PAT-2474,39.0,Male,General Medicine,7.0,0,0,0,0,1,1
+PAT-2475,56.0,Male,Cardiology,2.0,0,0,0,3,0,1
+PAT-2476,63.0,Male,General Medicine,14.0,0,0,0,0,1,1
+PAT-2477,46.0,Male,General Medicine,13.0,0,1,0,0,0,1
+PAT-2478,88.0,Female,Cardiology,8.0,1,1,0,0,0,1
+PAT-2479,11.0,Male,Dermatology,2.0,0,0,0,0,0,1
+PAT-2480,62.0,Female,Cardiology,1.0,1,0,0,0,1,1
+PAT-2481,77.0,Female,Orthopedics,0.0,0,1,0,0,1,0
+PAT-2482,25.0,Female,Orthopedics,8.0,0,0,0,1,0,0
+PAT-2483,71.0,Female,General Medicine,17.0,1,0,0,0,1,0
+PAT-2484,52.0,Female,Orthopedics,19.0,0,1,1,0,0,1
+PAT-2485,4.0,Female,General Medicine,6.0,0,0,0,0,0,1
+PAT-2486,59.0,Female,General Medicine,15.0,1,0,1,2,1,0
+PAT-2487,72.0,Female,Pediatrics,29.0,1,0,0,0,1,1
+PAT-2488,20.0,Male,General Medicine,3.0,0,0,0,0,0,0
+PAT-2489,63.0,Male,Dermatology,5.0,0,1,0,3,0,1
+PAT-2490,54.0,Male,General Medicine,26.0,0,0,0,0,1,0
+PAT-2491,74.0,Female,Orthopedics,4.0,0,0,0,0,1,0
+PAT-2492,57.0,Male,Cardiology,24.0,1,0,0,1,1,0
+PAT-2493,41.0,Female,General Medicine,39.0,0,1,0,1,0,1
+PAT-2494,3.0,Female,General Medicine,10.0,0,0,0,0,1,1
+PAT-2495,6.0,Male,Orthopedics,16.0,0,0,0,0,0,1
+PAT-2496,5.0,Male,Neurology,13.0,0,0,0,1,1,1
+PAT-2497,5.0,Female,Neurology,12.0,0,0,0,0,0,1
+PAT-2498,54.0,Female,Cardiology,3.0,0,1,0,2,0,1
+PAT-2499,47.0,Female,Pediatrics,0.0,1,0,0,0,1,1
